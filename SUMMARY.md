@@ -7,5 +7,5 @@
 * [Tech & Tools](tech-and-tools/README.md)
 * [Países](countries.md)
 * [Países Baixos](countries/netherlands.md)
-* [🇪🇸 🇪🇸 Espanha](countries/spain/README.md)
+* [🇪🇸 Espanha](countries/spain/README.md)
   * [🥘 Valência](countries/spain/valencia.md)
