@@ -235,11 +235,11 @@ Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrô
 
 ### Comida
 
-Em Espanha os horários de comida geralmente são:
+Em Espanha os horários de [comida](https://www.guiajando.com/a-que-hora-y-cuantas-veces-se-come-en-espana/) geralmente são:
 
 * Desayuno (8-9 hrs)
 * Almuerzo (11-12 hrs)
-* Comida (14-15 hrs)
+* Comida (14-15 hrs). Equivalente ao almoço do Brasil. Geralmente se come um menú com primer prato, segundo prato e sobremesa/café.
 * Merienda (18-19 hrs)
 * Cena (21-22 hrs)
 
