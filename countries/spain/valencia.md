@@ -6,7 +6,7 @@ Antes de ler esta página, leia a página de [Espanha](./) pra ter um contexto a
 
 Em Valência o idioma co-oficial além do espanhol, é o valenciano. É um idioma que vêm da mesma base do catalão e por isso são muito parecidos, mas evite falar que são a mesma coisa. Ainda mais para valencianos.
 
-A diferença do que acontece na Catalunha, o valenciano existe no entorno cultural e de governo, mas não é de obrigatório de saber para viver em Valência. &#x20;
+A diferença do que acontece na Catalunha, o valenciano existe no entorno cultural e de governo, mas não é de obrigatório de saber para viver em Valência.
 
 ## Moradia
 
@@ -56,7 +56,7 @@ Onde normalmente é caro
 
 A maioria dos cinemas da cidade estão dentro dos shoppings.
 
-Um dos melhores cinemas de Valência, fica fora da cidade, em Quart de Poblet. Chama [Bonaire](https://www.westfield.com/spain/bonaire) e dá pra ir lá de ônibus e de carro.
+Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https://www.westfield.com/spain/bonaire) e dá pra ir lá de ônibus e de carro.
 
 ### Esportes
 
@@ -80,7 +80,9 @@ O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés
 
 #### Paella
 
-[Paella](https://es.wikipedia.org/wiki/Paella) é o prato típico de Valência. Tenha em conta que a Paella é um prato que se come de almoço e _os locais_ acham uma aberração comer de janta, ainda que tenha restaurante que sirva.
+[Paella](https://es.wikipedia.org/wiki/Paella) é o prato típico de Valência. Tenha em conta que a Paella é um prato que se come no almoço e _os locais_ acham uma aberração comer na janta, ainda que tenha restaurante que ofereça.
+
+Recomendações das pessoas do canal #valencia:
 
 * [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
 * [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
@@ -88,7 +90,7 @@ O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés
 ## Transporte
 
 Se recomenda como regra geral, adquirir o título de transporte [SUMA](https://atmv.gva.es/es/suma) que se pode usar metrô (MetroValencia), ônibus da cidade (EMT vermelho) e ônibus da área metropolitana (MetroBus amarelo).\
-Atualmente existem a zona A (mas central), zona B (municípios mais longe) e Zona Aeroporto
+Atualmente existem a zona A (mais central), zona B (municípios mais longe) e zona do Aeroporto
 
 ### Metrô
 
