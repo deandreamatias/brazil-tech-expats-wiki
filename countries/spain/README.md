@@ -4,7 +4,7 @@
 Estas informações podem estar desatualizadas e são apenas uma orientação.
 {% endhint %}
 
-Espanha a pesar de ser um pais pequeno comparado com o Brasil, tem muita diversidade de culturas e costumes. Geralmente há mudanças culturais e até de idioma dependendo da comunidade autônoma que você estiver. Por exemplo, na Catalunha é comum falar catalão e é o idioma predominante em muitos municípios.
+Espanha apesar de ser um pais pequeno comparado com o Brasil, tem muita diversidade de culturas e costumes. Geralmente há mudanças culturais e até de idioma dependendo da comunidade autônoma que você estiver. Por exemplo, na Catalunha é comum falar catalão e é o idioma predominante em muitos municípios.
 
 Custo de vida em geral na Espanha:
 
@@ -20,7 +20,7 @@ numbeo.com
 
 ## Documentação e burocracia
 
-Na Espanha a burocracia a nível estatal muitas é complicada, com falta de informação e até em alguns casos, loopings que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, é normal.
+Na Espanha a burocracia a nível estatal é complicada, com falta de informação e até em alguns casos, loopings que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, **é normal**.
 
 {% hint style="info" %}
 Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para resolver a documentação.
