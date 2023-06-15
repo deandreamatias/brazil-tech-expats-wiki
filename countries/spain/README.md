@@ -229,7 +229,7 @@ Nas compras, você deve levar sua própria sacola reutilizável ou seu carrinho 
 
 ### Cinema
 
-Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legendados. A cultura de legendar filmes aqui é muito forte.
+Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legendados. A cultura de dublar filmes aqui é muito forte.
 
 Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrônimo de _Versión Original Subtitulada en Español_
 
