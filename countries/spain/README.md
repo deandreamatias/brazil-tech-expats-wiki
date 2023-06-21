@@ -1,4 +1,4 @@
-# 🇪🇸 Espanha
+# 🇪🇸 🇪🇸 Espanha
 
 {% hint style="info" %}
 Estas informações podem estar desatualizadas e são apenas uma orientação.
@@ -35,7 +35,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para 
 * [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
 * [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
 * [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do município que você more.
-* [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria. \
+* [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria.\
   Você vai obter este número quando começar a trabalhar. Geralmente é a empresa quem _da de alta_ (e faz toda a gestão) isto.
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
@@ -46,7 +46,13 @@ A comunidade atualmente (2023) sabe pouco sobre o assunto. Por favor contate um 
 
 ### CNH (carteira)
 
-O processo de validar a CNH é relativamente simples porque o Brasil e a Espanha tem um _acordo_ de equivalências. O que não é tão simples é conseguir cita na DGT (_Dirección General de Tráfico_)
+O processo de trocar a CNH é relativamente simples porque o Brasil e a Espanha tem um _acordo_ de equivalências. O que não é tão simples é conseguir cita na DGT (_Dirección General de Tráfico_)
+
+Como pode passar bastante tempo entre querer (procurar cita) e fazer (ir na DGT) a troca da carteira, é possível que no meio do caminho sua CNH esteja vencida. Para esse caso, o melhor talvez seja renovar no Brasil. Segundo a interpretação que as pessoas fazem da atual legislação:
+
+> Não pode tirar/emitir a **primeira** carteira de condução no Brasil em uma data **posterior** da que você chegou na Espanha.
+
+Isto acontece porque na hora da troca a DGT leva em consideração a **data de emissão** da CNH.
 
 ### Bancos
 
@@ -255,7 +261,7 @@ Se planeje com antecedência porque se não podem só sobrar os lugares de menor
 
 Dividir: É bem comum uma pessoa pagar e depois cada pessoa faz um [Bizum](https://bizum.es/) para a que pagou.
 
-Gorjeta: É de bom tom deixar gorjeta para médias e grandes refeições, ainda que não obrigatorio. \
+Gorjeta: É de bom tom deixar gorjeta para médias e grandes refeições, ainda que não obrigatorio.\
 Principalmente em restaurantes e bares, mas também você pode deixar pra quem entrega comida ou as compras do mês em casa. Estes trabalhadores não tem salários tão altos e agradecem o gesto de deixar gorjeta.
 
 ## Cultura
