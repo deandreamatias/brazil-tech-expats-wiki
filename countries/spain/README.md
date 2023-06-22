@@ -54,6 +54,17 @@ Como pode passar bastante tempo entre querer (procurar cita) e fazer (ir na DGT)
 
 Isto acontece porque na hora da troca a DGT leva em consideração a **data de emissão** da CNH.
 
+Se tiver dúvidas mais específicas, pode entrar em contato com um destes _gestores_ que já foram contatados por pessoas do Slack:
+
+<details>
+
+<summary>Gestores</summary>
+
+* Iris Joaquin: ![](../../.gitbook/assets/image.png)
+* [Gestmotor](https://gestoriatrafico.es/)
+
+</details>
+
 ### Bancos
 
 Você vai precisar de uma conta no banco para receber salário de trabalho (de qualquer empresa seria que não pague em espécie).\
