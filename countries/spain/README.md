@@ -81,7 +81,8 @@ A maioria dos bancos vão denegar ou complicar o processo se você disser que s�
 
 ### Utilidades
 
-Bot no Telegram pra pegar citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo\_bot)
+* Bot no Telegram pra pegar citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo\_bot)
+* [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
 
 ## Trabalho
 
