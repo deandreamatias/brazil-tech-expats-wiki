@@ -8,6 +8,22 @@ Em Valência o idioma co-oficial além do espanhol, é o valenciano. É um idiom
 
 A diferença do que acontece na Catalunha, o valenciano existe no entorno cultural e de governo, mas não é de obrigatório de saber para viver em Valência.
 
+## Documentação e burocracia
+
+### Policia
+
+#### Carta de invitación
+
+A partir de uma experiência pessoal de uma das integrantes da comunidade, escrevo esta informação.
+
+* A cita para a _carta de invitación_ em Valência cidade, é básicamente impossível de conseguir pelo site. Depois de muita procura, se achou alguma informação nas resenhas do Google
+  * Procedimento em 2023:
+  * Procedimento em 2022: [https://goo.gl/maps/y3Rmn5AxEKkeeMsn9](https://goo.gl/maps/y3Rmn5AxEKkeeMsn9)
+* Os requisitos, podem ser visto em [este site](https://cograsova.es/extranjeros/cartainvitacion.html) ou [neste pdf](https://cograsova.es/extranjeros/INFORMACION%202011/doc\_pdf/Instrucciones%20Carta%20de%20Invitaci%C3%B3n.pdf).
+  * O requisito 7 _Anexo Instrucción 3/2021 firmado_ pelo visto atualmente (jul/23) não se pede.
+
+Tenha em conta que tudo isto pode estar desatualizado, mas serve de orientação.
+
 ## Moradia
 
 {% hint style="info" %}

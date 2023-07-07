@@ -22,10 +22,6 @@ numbeo.com
 
 Na Espanha a burocracia a nível estatal é complicada, com falta de informação e até em alguns casos, loopings que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, **é normal**.
 
-{% hint style="info" %}
-Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para resolver a documentação.
-{% endhint %}
-
 ### Definições básicas
 
 * **DNI**: Documento Nacional de Identificación. Este só tem quem tem a nacionalidade espanhola
@@ -40,9 +36,17 @@ Sempre é aconselhável contratar advogados especialistas em _extranjeria_ para 
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
 
+### Policia
+
+Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter a documentação que você precisa.
+
+{% hint style="info" %}
+Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
+{% endhint %}
+
 ### Visto de nômade digital
 
-A comunidade atualmente (2023) sabe pouco sobre o assunto. Por favor contate um profissional para que possa te auxiliar.
+A comunidade do Slack atualmente (2023) sabe pouco sobre o assunto. Por favor contate um profissional para que possa te auxiliar.
 
 ### CNH (carteira)
 
@@ -81,7 +85,8 @@ A maioria dos bancos vão denegar ou complicar o processo se você disser que s�
 
 ### Utilidades
 
-* Bot no Telegram pra pegar citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo\_bot)
+* Bot no Telegram pra informar de novas citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo\_bot)
+* Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check\_cita\_bot](https://t.me/check\_cita\_bot)
 * [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
 
 ## Trabalho
