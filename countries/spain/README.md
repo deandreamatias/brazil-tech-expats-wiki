@@ -1,4 +1,4 @@
-# 🇪🇸 🇪🇸 Espanha
+# 🇪🇸 Espanha
 
 {% hint style="info" %}
 Estas informações podem estar desatualizadas e são apenas uma orientação.
@@ -44,6 +44,12 @@ Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter
 {% hint style="info" %}
 Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
 {% endhint %}
+
+#### Advogados
+
+A seguir uma lista de advogados especialistas em extranjeríae assuntos relaciones, que já foram recomendados pela comunidade.
+
+*
 
 ### Visto de nômade digital
 
@@ -117,13 +123,15 @@ Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://sal
 Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salario for maior que € 60.000 ano.
 
 Requisitos:
+
 * Não ter sido residente fiscal na espanha nos ultimos 5 anos.
 * Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
 
 Como solicitar:
+
 * Ter a Cl@ve
-* Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
-* Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en_gb/procedimientoini/G606.shtml) com os seguintes documentos
+* Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en\_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
+* Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en\_gb/procedimientoini/G606.shtml) com os seguintes documentos
   * Contrato, contra cheque, Vida Laboral, NIE, Passaporte completo (incluindo paginas em branco)
 * Espere a aprovação (geralmente é rápido, por volta de 10 dias)
 * Apresente a confirmação para o RH da sua empresa
