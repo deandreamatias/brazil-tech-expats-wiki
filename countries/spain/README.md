@@ -110,6 +110,7 @@ Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
 * LinkedIn
 * [InfoJobs](https://www.infojobs.net/)
 * [Manfred](https://www.getmanfred.com/ofertas-empleo?onlyActive=true\&currency=%E2%82%AC)
+* [https://github.com/remote-es/remotes](https://github.com/remote-es/remotes)
 
 ### Impostos
 
