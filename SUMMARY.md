@@ -6,7 +6,7 @@
 * [Taxes](taxes/README.md)
 * [Tech & Tools](tech-and-tools/README.md)
 * [Países](countries.md)
-* [🇳🇱 Países Baixos](countries/netherlands.md)
+* [🇳🇱 🇳🇱 Países Baixos](countries/netherlands.md)
 * [🇪🇸 Espanha](countries/spain/README.md)
   * [🥘 Valência](countries/spain/valencia.md)
 * [Suécia](countries/sweden/README.md)

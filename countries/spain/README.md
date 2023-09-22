@@ -50,6 +50,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjería_ para
 A seguir uma lista de advogados especialistas em extranjeríae assuntos relaciones, que já foram recomendados pela comunidade.
 
 * [Amanda Kalil](https://amandakalil.com): advogada e professora, especialista em acesso universitário; também fornece assessoria para vistos e demais assuntos relacionados à imigração para Espanha.
+* Suzana García: Advogada brasileira indicada pelo Teoni no canal #valencia do Slack. suzanagarciaabogada@gmail.com
 
 ### Visto de nômade digital
 
