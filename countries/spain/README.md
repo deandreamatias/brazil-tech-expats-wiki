@@ -144,6 +144,15 @@ Em Espanha a maioria das empresas são consultoras. Depois tem uma parte de mult
 
 Uma quarta opção são as empresas de outros países da Europa (exemplo Alemanha ou UK) que tenham sede em Espanha.
 
+### Horários
+
+É normal em empresas de tecnologia, trabalhar 8:30 hrs de segunda a quinta e na sexta trabalhar 6 hrs, que no total da 40 hrs semana.\
+Já no verão, podem oferecer o horário diário de 7 hrs ou 6 hrs durante varias semanas. Pode ser durante agosto ou no verão inteiro, dependendo da empresa.
+
+{% hint style="info" %}
+Este conceito de trabalhar 6 ou 7 horas no dia, é chamado como **horário intensivo**
+{% endhint %}
+
 ## Moradia
 
 ### Portais
