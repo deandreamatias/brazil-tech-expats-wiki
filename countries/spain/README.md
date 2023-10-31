@@ -291,6 +291,8 @@ Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar n
 
 Nas compras, você deve levar sua própria sacola reutilizável ou seu carrinho de compras, já que as sacolas de plástico ou papel não são grátis.
 
+* [Kibom](https://kibom.es/es/): Produtos do Brasil
+
 #### Lojas
 
 * [GALERIA VERSE](https://www.instagram.com/galeriaverse/): Joias feitas a mão | joalheria artesanal. Entrega em toda Europa e também no Brasil. Feito por Ellen, brasileira que mora em [Valência](valencia.md).

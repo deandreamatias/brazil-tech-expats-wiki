@@ -70,45 +70,6 @@ Onde normalmente é caro
 
 * [Dasha](https://dashalivingspace.com/)
 
-## Lazer
-
-* Link de site de turismo oficial: [https://www.visitvalencia.com/](https://www.visitvalencia.com/)
-
-### Cinema
-
-A maioria dos cinemas da cidade estão dentro dos shoppings.
-
-Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https://www.westfield.com/spain/bonaire) e dá pra ir lá de ônibus e de carro.
-
-### Esportes
-
-* [Esportes ao ar livre](https://www.valenciabeachbol.com/)
-* [OndaFC](https://www.ondafc.es/en/) (futebol)
-
-### Shows
-
-* [Concerts de vivers](https://concertsdevivers.com/)
-
-### Comunidades
-
-* [Valencia Codes](https://valenciacodes.com/)
-* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared\_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ)
-
-### Comida
-
-#### Cafeteria/Coworking
-
-O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
-
-#### Paella
-
-[Paella](https://es.wikipedia.org/wiki/Paella) é o prato típico de Valência. Tenha em conta que a Paella é um prato que se come no almoço e _os locais_ acham uma aberração comer na janta, ainda que tenha restaurante que ofereça.
-
-Recomendações das pessoas do canal #valencia:
-
-* [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
-* [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
-
 ## Transporte
 
 Se recomenda como regra geral, adquirir o título de transporte [SUMA](https://atmv.gva.es/es/suma) que se pode usar metrô (MetroValencia), ônibus da cidade (EMT vermelho) e ônibus da área metropolitana (MetroBus amarelo).\
@@ -131,3 +92,48 @@ A cidade de Valência tem uma boa extensão de ciclovias e ciclo-ruas para andar
 * [Subscrição de bikes](https://www.kleta.com/en/)
 * Serviço municipal público-privado de bikes, [Valenbisi](https://www.valenbisi.es/)
 * Comprar uma bike usada no Wallapop
+
+## Lazer
+
+* Link de site de turismo oficial: [https://www.visitvalencia.com/](https://www.visitvalencia.com/)
+
+### Cinema
+
+A maioria dos cinemas da cidade estão dentro dos shoppings.
+
+Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https://www.westfield.com/spain/bonaire) e dá pra ir lá de ônibus e de carro.
+
+### Esportes
+
+* [Esportes ao ar livre](https://www.valenciabeachbol.com/)
+* [OndaFC](https://www.ondafc.es/en/) (futebol)
+
+### Shows
+
+* [Concerts de vivers](https://concertsdevivers.com/)
+* [Big sound festival](https://bigsoundfestival.com/)
+
+### Comunidades
+
+* [Valencia Codes](https://valenciacodes.com/)
+* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared\_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ)
+
+### Comida
+
+#### Cafeteria/Coworking
+
+O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
+
+#### Paella
+
+[Paella](https://es.wikipedia.org/wiki/Paella) é o prato típico de Valência. Tenha em conta que a Paella é um prato que se come no almoço e _os locais_ acham uma aberração comer na janta, ainda que tenha restaurante que ofereça.
+
+Recomendações das pessoas do canal #valencia:
+
+* [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
+* [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
+
+## Serviços gerais
+
+* Alex Saraiva - [+34 642 44 90 71](tel:+34642449071): Instalação de ar-condicionado (consultar sobre outros serviços de _manitas_)
+* [Peluquería canina Mimos](https://peluqueriacaninamimos.com/): Loja física em Quart de Poblet da pet groomer Ana Júlia
