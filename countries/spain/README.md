@@ -20,7 +20,7 @@ numbeo.com
 
 ## Documentação e burocracia
 
-Na Espanha a burocracia a nível estatal é complicada, com falta de informação e até em alguns casos, loopings que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, **é normal**.
+Na Espanha a burocracia a nível estatal é complicada, com falta de informação e até em alguns casos, _loopings_ que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, **é normal**.
 
 ### Definições básicas
 
@@ -47,7 +47,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjería_ para
 
 #### Advogados
 
-A seguir uma lista de advogados especialistas em extranjeríae assuntos relaciones, que já foram recomendados pela comunidade.
+A seguir uma lista de advogados especialistas em _extranjería_ e assuntos relaciones, que já foram recomendados pela comunidade.
 
 * [Amanda Kalil](https://amandakalil.com): advogada e professora, especialista em acesso universitário; também fornece assessoria para vistos e demais assuntos relacionados à imigração para Espanha.
 * Suzana García: Advogada brasileira indicada pelo Teoni no canal #valencia do Slack. suzanagarciaabogada@gmail.com
@@ -122,12 +122,12 @@ Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://sal
 
 ### Lei de Beckham
 
-Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salario for maior que € 60.000 ano.
+Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salário for maior que € 60.000 ano.
 
 Requisitos:
 
-* Não ter sido residente fiscal na espanha nos ultimos 5 anos.
-* Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
+* Não ter sido residente fiscal na Espanha nos últimos 5 anos.
+* Ter um contrato de trabalho espanhol ou obter o visto de nômade digital
 
 Como solicitar:
 
@@ -194,8 +194,12 @@ A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas of
 * Valores:
   * Um mês de aluguel adiantado
   * Um caução (_fianza_)
-  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto deve mudar com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx)
+  * Um mês pra imobiliária (é tipo uma taxa, não devolve).&#x20;
+    * Este ponto deveria ter mudado com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx), mas as imobiliárias estão fazendo de tudo para continuar (até ilegalmente) cobrar este valor pra quem aluga.
+    * Veja como se defender disto: [https://sindicatdellogateres.org/es/recurso/guia-honorarios-2/](https://sindicatdellogateres.org/es/recurso/guia-honorarios-2/)
 * Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
+
+Os requisitos econômicos, geralmente tem que demonstrar com documentos (_nóminas_, contratos, etc) e o proprietário envia estes para um _seguro de impago_, que é um processo de uma empresa privada que determina se você tem estabilidade econômica para alugar o imóvel.
 
 É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas não e o padrão.
 
@@ -211,12 +215,12 @@ Operadoras:
   * [Movistar](https://www.movistar.es/). A melhor
   * [Orange](https://www.orange.es/). Ok, mas enchem um pouco o saco com o marketing
   * ~~Vodafone~~. Evite esta a qualquer custo
-* As secundarias, conhecidas como a _gama média_ e as vezes filiais das anteriores
+* As secundárias, conhecidas como a _gama média_ e as vezes filiais das anteriores
   * [O2](https://o2online.es/). Usa tudo da Movistar mas não tem nada de TV ou aparelhos
   * [Digi](https://www.digimobil.es/). Varias pessoas tem e não houveram reclamações
   * [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
 
-A maioria das pessoas na Espanha usa a opção de contrato ao invés de prepago para celular.
+A maioria das pessoas na Espanha usa a opção de contrato ao invés de pré-pago para celular.
 
 #### Mudança
 
@@ -256,6 +260,7 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 ### Aluguel meios de transporte
 
 * [Cooltra](https://cooltra.com/es/) (motos)
+* [Acciona](https://movilidad.acciona.com/) (motos)
 * [FreeNow](https://www.free-now.com/es/) (dependendo da cidade)
 
 ## Lazer
@@ -279,18 +284,22 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 * [Carrefour](https://www.carrefour.es/) e [Carrefour Express](https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/)
 * [Alcampo](https://www.alcampo.es/compra-online/)
 * [Eroski](https://www.eroski.es/) (não tem em todas as cidades)
-* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral este da Espanha)
+* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral leste da Espanha)
 * [El Corte Inglés](https://www.elcorteingles.es/)
 
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
 
 Nas compras, você deve levar sua própria sacola reutilizável ou seu carrinho de compras, já que as sacolas de plástico ou papel não são grátis.
 
+#### Lojas
+
+* [GALERIA VERSE](https://www.instagram.com/galeriaverse/): Joias feitas a mão | joalheria artesanal. Entrega em toda Europa e também no Brasil. Feito por Ellen, brasileira que mora em [Valência](valencia.md).
+
 ### Cinema
 
 Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legendados. A cultura de dublar filmes aqui é muito forte.
 
-Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrônimo de _Versión Original Subtitulada en Español_
+Se você tem interesse em ver filmes legendados, procure pelos filmes V.O.S.E acrônimo de _Versión Original Subtitulada en Español_
 
 ### Comida
 
@@ -314,7 +323,7 @@ Se planeje com antecedência porque se não podem só sobrar os lugares de menor
 
 Dividir: É bem comum uma pessoa pagar e depois cada pessoa faz um [Bizum](https://bizum.es/) para a que pagou.
 
-Gorjeta: É de bom tom deixar gorjeta para médias e grandes refeições, ainda que não obrigatorio.\
+Gorjeta: É de bom tom deixar gorjeta para médias e grandes refeições, ainda que não obrigatório.\
 Principalmente em restaurantes e bares, mas também você pode deixar pra quem entrega comida ou as compras do mês em casa. Estes trabalhadores não tem salários tão altos e agradecem o gesto de deixar gorjeta.
 
 ## Cultura
@@ -328,6 +337,7 @@ Abraços também são comuns quando as pessoas tem mais confiança.
 
 * [RTVE](https://www.rtve.es/) (estatal)
 * [La Marea](https://www.lamarea.com/) (independente)
+* [El Salto](https://www.elsaltodiario.com/) (independente)
 
 ### Séries
 
@@ -339,6 +349,8 @@ Seriados são um ótimo jeito de conhecer a cultura e principalmente o idioma es
 * [Vis a Vis](https://es.wikipedia.org/wiki/Vis\_a\_vis\_\(serie\_de\_televisi%C3%B3n\))
 * [Las chicas del cable](https://es.wikipedia.org/wiki/Las\_chicas\_del\_cable)
 * [Paquita Salas](https://es.wikipedia.org/wiki/Paquita\_Salas)
+* [El Pueblo](https://www.primevideo.com/detail/0I1F5DVJZO28WRRFYCLFEBLMWY/) (Amazon Prime - Telecinco)
+* [Machos Alfa](https://www.netflix.com/es/title/81559021) (Netflix)
 
 ### Podcasts
 
