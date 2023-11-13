@@ -25,15 +25,25 @@ Na Espanha a burocracia a nível estatal é complicada, com falta de informaçã
 ### Definições básicas
 
 * **DNI**: Documento Nacional de Identificación. Este só tem quem tem a nacionalidade espanhola
-  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico
-* **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI**
-* **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
-* [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
-* [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
+  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico.
+* **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI.**
+* **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE.**
+* **Certificado de Registro de Ciudadano de la Unión Europea:** É o cartão que aparece o número de NIE, mas para cidadão europeu.
+* [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online.
+* [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas.
 * [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do município que você more.
 * [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria.\
   Você vai obter este número quando começar a trabalhar. Geralmente é a empresa quem _da de alta_ (e faz toda a gestão) isto.
 * [**Vida Laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes): Contem as informações sobre os empregos que tem/teve na Espanha, como se fosse uma carteira de trabalho
+
+A seguinte tabela serve para fazer uma comparação dos documentos existentes no Brasil com os da Espanha:
+
+| Brasil                           | Espanha (número) | Espanha (documento físico)                                   |
+| -------------------------------- | ---------------- | ------------------------------------------------------------ |
+| RG (Registro geral)              | NIF              | DNI                                                          |
+| RNE (Registro geral extrangeiro) | NIE              | TIE/Certificado de Registro de Ciudadano de la Unión Europea |
+| CPF                              | NIF/NIE          | DNI/TIE                                                      |
+| CNPJ                             | CIF              | -                                                            |
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
 
