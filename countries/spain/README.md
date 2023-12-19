@@ -364,6 +364,12 @@ Seriados são um ótimo jeito de conhecer a cultura e principalmente o idioma es
 * [El Pueblo](https://www.primevideo.com/detail/0I1F5DVJZO28WRRFYCLFEBLMWY/) (Amazon Prime - Telecinco)
 * [Machos Alfa](https://www.netflix.com/es/title/81559021) (Netflix)
 
+### Redes sociais
+
+#### Youtube
+
+* Pantomima full: [https://www.youtube.com/@PantomimaFull/featured](https://www.youtube.com/@PantomimaFull/featured)
+
 ### Podcasts
 
 {% embed url="https://open.spotify.com/show/0RctycUmwttpDjMvKovO7r?si=5c43ae87bf6649f6" %}
