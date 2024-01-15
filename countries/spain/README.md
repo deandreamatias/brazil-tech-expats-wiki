@@ -20,30 +20,20 @@ numbeo.com
 
 ## Documentação e burocracia
 
-Na Espanha a burocracia a nível estatal é complicada, com falta de informação e até em alguns casos, _loopings_ que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, **é normal**.
+Na Espanha a burocracia a nível estatal é complicada, com falta de informação e até em alguns casos, loopings que parecem não ter saída. Se você as vezes se sente perdido ou percebe que as coisas não fazem sentido, **é normal**.
 
 ### Definições básicas
 
 * **DNI**: Documento Nacional de Identificación. Este só tem quem tem a nacionalidade espanhola
-  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico.
-* **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI.**
-* **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE.**
-* **Certificado de Registro de Ciudadano de la Unión Europea:** É o cartão que aparece o número de NIE, mas para cidadão europeu.
-* [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online.
-* [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas.
+  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico
+* **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI**
+* **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
+* [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
+* [Cl@ve](https://clave.gob.es/clave\_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
 * [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do município que você more.
 * [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria.\
   Você vai obter este número quando começar a trabalhar. Geralmente é a empresa quem _da de alta_ (e faz toda a gestão) isto.
 * [**Vida Laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes): Contem as informações sobre os empregos que tem/teve na Espanha, como se fosse uma carteira de trabalho
-
-A seguinte tabela serve para fazer uma comparação dos documentos existentes no Brasil com os da Espanha:
-
-| Brasil                           | Espanha (número) | Espanha (documento físico)                                   |
-| -------------------------------- | ---------------- | ------------------------------------------------------------ |
-| RG (Registro geral)              | NIF              | DNI                                                          |
-| RNE (Registro geral extrangeiro) | NIE              | TIE/Certificado de Registro de Ciudadano de la Unión Europea |
-| CPF                              | NIF/NIE          | DNI/TIE                                                      |
-| CNPJ                             | CIF              | -                                                            |
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
 
@@ -55,35 +45,44 @@ Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter
 Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
 {% endhint %}
 
-#### Advogados
-
-A seguir uma lista de advogados especialistas em _extranjería_ e assuntos relaciones, que já foram recomendados pela comunidade.
-
-* [Amanda Kalil](https://amandakalil.com): advogada e professora, especialista em acesso universitário; também fornece assessoria para vistos e demais assuntos relacionados à imigração para Espanha.
-* Suzana García: Advogada brasileira indicada pelo Teoni no canal #valencia do Slack. suzanagarciaabogada@gmail.com
-
 ### Visto de nômade digital
 
 A comunidade do Slack atualmente (2023) sabe pouco sobre o assunto. Por favor contate um profissional para que possa te auxiliar.
 
 ### CNH (carteira)
 
-O processo de trocar a CNH é relativamente simples porque o Brasil e a Espanha tem um _acordo_ de equivalências. O que não é tão simples é conseguir cita na DGT (_Dirección General de Tráfico_)
+O processo de troca da CNH entre Brasil e Espanha é relativamente simples, devido a um acordo de equivalência entre os dois países. No entanto, o desafio muitas vezes reside em obter um agendamento (cita) na DGT (Dirección General de Tráfico).
 
-Como pode passar bastante tempo entre querer (procurar cita) e fazer (ir na DGT) a troca da carteira, é possível que no meio do caminho sua CNH esteja vencida. Para esse caso, o melhor talvez seja renovar no Brasil. Segundo a interpretação que as pessoas fazem da atual legislação:
+Devido à possibilidade de transcorrer um período considerável entre o desejo de agendar a troca (obter uma cita) e efetivamente realizar a visita à DGT, é importante considerar a validade de sua CNH atual. Caso ela esteja prestes a vencer, pode ser mais conveniente renová-la no Brasil. Isso ocorre porque, de acordo com a interpretação comum da legislação atual:
 
-> Não pode tirar/emitir a **primeira** carteira de condução no Brasil em uma data **posterior** da que você chegou na Espanha.
+> É necessário que a emissão da **primeira** carteira de habilitação no Brasil tenha ocorrido em uma data anterior à sua chegada à Espanha.
 
-Isto acontece porque na hora da troca a DGT leva em consideração a **data de emissão** da CNH.
+Essa regra se deve ao fato de que, durante o processo de troca, a DGT leva em consideração a **data de emissão** da CNH brasileira.
 
-Se tiver dúvidas mais específicas, pode entrar em contato com um destes _gestores_ que já foram contatados por pessoas do Slack:
+Para realizar o trâmite, é necessário providenciar os seguintes documentos:&#x20;
+
+* Duas fotos 3x4 (carnet);
+* Certificado médico psicotécnico,
+  * É possível economizar nesse processo ao aproveitar descontos de até 50% oferecidos em sites de cupons, e.g.: https://www.groupon.es/deals/centre-medic-sagrada-familia-1
+
+Se optar por seguir o processo por conta própria, é fundamental acessar o site de agendamento de citações da [DGT](https://sedeapl.dgt.gob.es/WEB\_NCIT\_CONSULTA/consultacanjes/consultarCitaCanjes.faces) e ficar monitorando diariamente por vagas.&#x20;
+
+> Uma estratégia eficaz para encontrar uma vaga de agendamento é utilizar bots disponíveis no Telegram e no Twitter, que compartilham diariamente as vagas disponíveis em grupos dedicados.
+
+Para obter informações detalhadas sobre todo o processo, recomenda-se visitar o site oficial da [DGT](https://sede.dgt.gob.es/es/permisos-de-conducir/canje-permisos/canje-permisos-extranjeros/canje-permisos-con-convenio/index.shtml?Brasil.).
+
+Caso possua dúvidas mais específicas, é possível entrar em contato com gestores que já foram contatados por membros da comunidade no Slack e que possuem experiência no assunto.
 
 <details>
 
 <summary>Gestores</summary>
 
 * Iris Joaquin: ![](../../.gitbook/assets/image.png)
+  * Valor do trâmite: 200,00 EUR (IVA + taxa DGT inclusa)
+  * Tempo de espera: (?)
 * [Gestmotor](https://gestoriatrafico.es/)
+  * Valor do trâmite: 79,90 EUR (IVA + taxa DGT inclusa)
+  * Tempo de espera: 2-5 meses
 
 </details>
 
@@ -120,7 +119,6 @@ Nas cidades onde se paga mais e tem mais oportunidade é Madrid e Barcelona
 * LinkedIn
 * [InfoJobs](https://www.infojobs.net/)
 * [Manfred](https://www.getmanfred.com/ofertas-empleo?onlyActive=true\&currency=%E2%82%AC)
-* [https://github.com/remote-es/remotes](https://github.com/remote-es/remotes)
 
 ### Impostos
 
@@ -132,12 +130,12 @@ Para calcular os descontos na folha de pagamento, use o [AfterTaxes](https://sal
 
 ### Lei de Beckham
 
-Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salário for maior que € 60.000 ano.
+Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 24%, ele começa a valer a pena se o salario for maior que € 60.000 ano.
 
 Requisitos:
 
-* Não ter sido residente fiscal na Espanha nos últimos 5 anos.
-* Ter um contrato de trabalho espanhol ou obter o visto de nômade digital
+* Não ter sido residente fiscal na espanha nos ultimos 5 anos.
+* Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
 
 Como solicitar:
 
@@ -153,15 +151,6 @@ Como solicitar:
 Em Espanha a maioria das empresas são consultoras. Depois tem uma parte de multinacionais ou empresas grandes (bancos) como Cabify, Glovo, OpenBank, etc. E por último tem empresas de produto pequeno ou médio. Pela parte das consultoras, tem de tudo. Desde as conhecidas Big Four que na sua maioria fazem [exploração dos desenvolvedores](https://www.elconfidencial.com/empresas/2023-01-16/redada-trabajo-big-four-control-horarios\_3557071/), outras que vai depender do projeto e outras que são OK/boas. Para ter uma referência das consultoras, se pode consultar o site [Malditas Consultoras](https://malditasconsultoras.com/) ou o Glassdoor.
 
 Uma quarta opção são as empresas de outros países da Europa (exemplo Alemanha ou UK) que tenham sede em Espanha.
-
-### Horários
-
-É normal em empresas de tecnologia, trabalhar 8:30 hrs de segunda a quinta e na sexta trabalhar 6 hrs, que no total da 40 hrs semana.\
-Já no verão, podem oferecer o horário diário de 7 hrs ou 6 hrs durante varias semanas. Pode ser durante agosto ou no verão inteiro, dependendo da empresa.
-
-{% hint style="info" %}
-Este conceito de trabalhar 6 ou 7 horas no dia, é chamado como **horário intensivo**
-{% endhint %}
 
 ## Moradia
 
@@ -204,12 +193,8 @@ A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas of
 * Valores:
   * Um mês de aluguel adiantado
   * Um caução (_fianza_)
-  * Um mês pra imobiliária (é tipo uma taxa, não devolve).&#x20;
-    * Este ponto deveria ter mudado com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx), mas as imobiliárias estão fazendo de tudo para continuar (até ilegalmente) cobrar este valor pra quem aluga.
-    * Veja como se defender disto: [https://sindicatdellogateres.org/es/recurso/guia-honorarios-2/](https://sindicatdellogateres.org/es/recurso/guia-honorarios-2/)
+  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto deve mudar com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx)
 * Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
-
-Os requisitos econômicos, geralmente tem que demonstrar com documentos (_nóminas_, contratos, etc) e o proprietário envia estes para um _seguro de impago_, que é um processo de uma empresa privada que determina se você tem estabilidade econômica para alugar o imóvel.
 
 É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas não e o padrão.
 
@@ -225,12 +210,12 @@ Operadoras:
   * [Movistar](https://www.movistar.es/). A melhor
   * [Orange](https://www.orange.es/). Ok, mas enchem um pouco o saco com o marketing
   * ~~Vodafone~~. Evite esta a qualquer custo
-* As secundárias, conhecidas como a _gama média_ e as vezes filiais das anteriores
+* As secundarias, conhecidas como a _gama média_ e as vezes filiais das anteriores
   * [O2](https://o2online.es/). Usa tudo da Movistar mas não tem nada de TV ou aparelhos
   * [Digi](https://www.digimobil.es/). Varias pessoas tem e não houveram reclamações
   * [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
 
-A maioria das pessoas na Espanha usa a opção de contrato ao invés de pré-pago para celular.
+A maioria das pessoas na Espanha usa a opção de contrato ao invés de prepago para celular.
 
 #### Mudança
 
@@ -270,7 +255,6 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 ### Aluguel meios de transporte
 
 * [Cooltra](https://cooltra.com/es/) (motos)
-* [Acciona](https://movilidad.acciona.com/) (motos)
 * [FreeNow](https://www.free-now.com/es/) (dependendo da cidade)
 
 ## Lazer
@@ -294,26 +278,18 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 * [Carrefour](https://www.carrefour.es/) e [Carrefour Express](https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/)
 * [Alcampo](https://www.alcampo.es/compra-online/)
 * [Eroski](https://www.eroski.es/) (não tem em todas as cidades)
-* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral leste da Espanha)
+* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral este da Espanha)
 * [El Corte Inglés](https://www.elcorteingles.es/)
 
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
 
 Nas compras, você deve levar sua própria sacola reutilizável ou seu carrinho de compras, já que as sacolas de plástico ou papel não são grátis.
 
-* [Kibom](https://kibom.es/es/): Produtos do Brasil
-
-#### Lojas
-
-* [GALERIA VERSE](https://www.instagram.com/galeriaverse/): Joias feitas a mão | joalheria artesanal. Entrega em toda Europa e também no Brasil. Feito por Ellen, brasileira que mora em [Valência](valencia.md).
-
 ### Cinema
 
 Uma coisa a ter em conta na Espanha é que há mais filmes dublados do que legendados. A cultura de dublar filmes aqui é muito forte.
 
-Se você tem interesse em ver filmes legendados, procure pelos filmes V.O.S.E acrônimo de _Versión Original Subtitulada en Español_
-
-Uma opção é o cinema [Babel](http://www.cinesalbatrosbabel.com). Cinema pequeno, de bairro, sem lugar marcado, porém todos os filmes são no formato original (idioma original com legendas em espanhol).
+Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrônimo de _Versión Original Subtitulada en Español_
 
 ### Comida
 
@@ -337,7 +313,7 @@ Se planeje com antecedência porque se não podem só sobrar os lugares de menor
 
 Dividir: É bem comum uma pessoa pagar e depois cada pessoa faz um [Bizum](https://bizum.es/) para a que pagou.
 
-Gorjeta: É de bom tom deixar gorjeta para médias e grandes refeições, ainda que não obrigatório.\
+Gorjeta: É de bom tom deixar gorjeta para médias e grandes refeições, ainda que não obrigatorio.\
 Principalmente em restaurantes e bares, mas também você pode deixar pra quem entrega comida ou as compras do mês em casa. Estes trabalhadores não tem salários tão altos e agradecem o gesto de deixar gorjeta.
 
 ## Cultura
@@ -351,7 +327,6 @@ Abraços também são comuns quando as pessoas tem mais confiança.
 
 * [RTVE](https://www.rtve.es/) (estatal)
 * [La Marea](https://www.lamarea.com/) (independente)
-* [El Salto](https://www.elsaltodiario.com/) (independente)
 
 ### Séries
 
@@ -363,14 +338,6 @@ Seriados são um ótimo jeito de conhecer a cultura e principalmente o idioma es
 * [Vis a Vis](https://es.wikipedia.org/wiki/Vis\_a\_vis\_\(serie\_de\_televisi%C3%B3n\))
 * [Las chicas del cable](https://es.wikipedia.org/wiki/Las\_chicas\_del\_cable)
 * [Paquita Salas](https://es.wikipedia.org/wiki/Paquita\_Salas)
-* [El Pueblo](https://www.primevideo.com/detail/0I1F5DVJZO28WRRFYCLFEBLMWY/) (Amazon Prime - Telecinco)
-* [Machos Alfa](https://www.netflix.com/es/title/81559021) (Netflix)
-
-### Redes sociais
-
-#### Youtube
-
-* Pantomima full: [https://www.youtube.com/@PantomimaFull/featured](https://www.youtube.com/@PantomimaFull/featured)
 
 ### Podcasts
 
