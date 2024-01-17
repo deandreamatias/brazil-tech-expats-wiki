@@ -45,6 +45,23 @@ Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter
 Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
 {% endhint %}
 
+### Mudança de NIE a DNI
+
+Lugares importantes onde mudar
+
+* _Seguridad social_
+  * Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy\&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass\_contenidos/solicitudes/enviar)&#x20;
+* Agencia tributaria
+  * Online: [_Modelo 030_](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G321.shtml)
+* Bancos
+  * BBVA é presencial atualmente (jan/24)
+* Posto de saúde (presencial)
+* _Empadronamiento_/Prefeitura (presencial)
+
+Outros lugares de interesse
+
+* Contas de compras online
+
 ### Visto de nômade digital
 
 A comunidade do Slack atualmente (2023) sabe pouco sobre o assunto. Por favor contate um profissional para que possa te auxiliar.
