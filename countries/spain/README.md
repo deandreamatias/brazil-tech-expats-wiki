@@ -56,7 +56,9 @@ Lugares importantes onde mudar
 * Bancos
   * BBVA é presencial atualmente (jan/24)
 * Posto de saúde (presencial)
+  * Na GVA, você pode receber uma mensagem que o novo cartão está pronto e dai é só ir buscar
 * _Empadronamiento_/Prefeitura (presencial)
+  * A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page\&cid=1254734719723\&lang=es\_ES\&p=1254734719723\&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procuar fazer via digital.
 
 Outros lugares de interesse
 
