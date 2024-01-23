@@ -45,8 +45,8 @@ Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter
 Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
 {% endhint %}
 
-### Cidadania
-Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos. Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
+### Nacionalidade
+Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE). Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
 
 * **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas.
 Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).
