@@ -45,6 +45,25 @@ Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter
 Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
 {% endhint %}
 
+### Nacionalidade
+Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE). Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
+
+* **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas.
+Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
+
+* **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
+1. Interpretação de textos (~60 minutos, com lápis)
+2. Compreensão auditiva (~40 minutos, com lápis)
+3. Redações (~50 minutos, com caneta): A parte escrita da prova envolve a redação de um e-mail na tarefa 1, o que se resume a praticar alguns exemplos. Quanto à tarefa 2, há a opção de escolher entre discorrer sobre sua música e cantor favoritos ou compartilhar sobre as férias que gostaria de desfrutar.
+4. Prova de fala (~10 minutos). A dica é: siga as instruções da prova e em ordem.
+    1. Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;
+    2. Descrever uma foto. São dadas 2 para a escolha.
+    3. Conversa com o examinador.
+
+[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)  
+
 ### Mudança de NIE a DNI
 
 Lugares importantes onde mudar
