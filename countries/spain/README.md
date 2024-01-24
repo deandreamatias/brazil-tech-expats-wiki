@@ -62,7 +62,7 @@ Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?i
     2. Descrever uma foto. São dadas 2 para a escolha.
     3. Conversa com o examinador.
 
-[+] Informações e materiais oficiais: [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)  
+[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)  
 
 ### Mudança de NIE a DNI
 
