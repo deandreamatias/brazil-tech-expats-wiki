@@ -46,30 +46,28 @@ Sempre é aconselhável contratar advogados especialistas em _extranjería_ para
 {% endhint %}
 
 ### Nacionalidade
+
 Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE). Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
 
-* **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas.
-Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).
-&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
-
+* **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas. Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse\&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).                  \[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
 * **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
-1. Interpretação de textos (~60 minutos, com lápis)
-2. Compreensão auditiva (~40 minutos, com lápis)
-3. Redações (~50 minutos, com caneta): A parte escrita da prova envolve a redação de um e-mail na tarefa 1, o que se resume a praticar alguns exemplos. Quanto à tarefa 2, há a opção de escolher entre discorrer sobre sua música e cantor favoritos ou compartilhar sobre as férias que gostaria de desfrutar.
-4. Prova de fala (~10 minutos). A dica é: siga as instruções da prova e em ordem.
-    1. Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;
-    2. Descrever uma foto. São dadas 2 para a escolha.
-    3. Conversa com o examinador.
 
-[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)  
+1. Interpretação de textos (\~60 minutos, com lápis)
+2. Compreensão auditiva (\~40 minutos, com lápis)
+3. Redações (\~50 minutos, com caneta): A parte escrita da prova envolve a redação de um e-mail na tarefa 1, o que se resume a praticar alguns exemplos. Quanto à tarefa 2, há a opção de escolher entre discorrer sobre sua música e cantor favoritos ou compartilhar sobre as férias que gostaria de desfrutar.
+4. Prova de fala (\~10 minutos). A dica é: siga as instruções da prova e em ordem.
+   1. Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;
+   2. Descrever uma foto. São dadas 2 para a escolha.
+   3. Conversa com o examinador.
+
+\[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)
 
 ### Mudança de NIE a DNI
 
 Lugares importantes onde mudar
 
 * _Seguridad social_
-  * Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy\&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass\_contenidos/solicitudes/enviar)&#x20;
+  * Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy\&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass\_contenidos/solicitudes/enviar)
 * Agencia tributaria
   * Online: [_Modelo 030_](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G321.shtml)
 * Bancos
@@ -97,13 +95,13 @@ Devido à possibilidade de transcorrer um período considerável entre o desejo 
 
 Essa regra se deve ao fato de que, durante o processo de troca, a DGT leva em consideração a **data de emissão** da CNH brasileira.
 
-Para realizar o trâmite, é necessário providenciar os seguintes documentos:&#x20;
+Para realizar o trâmite, é necessário providenciar os seguintes documentos:
 
 * Duas fotos 3x4 (carnet);
 * Certificado médico psicotécnico,
   * É possível economizar nesse processo ao aproveitar descontos de até 50% oferecidos em sites de cupons, e.g.: https://www.groupon.es/deals/centre-medic-sagrada-familia-1
 
-Se optar por seguir o processo por conta própria, é fundamental acessar o site de agendamento de citações da [DGT](https://sedeapl.dgt.gob.es/WEB\_NCIT\_CONSULTA/consultacanjes/consultarCitaCanjes.faces) e ficar monitorando diariamente por vagas.&#x20;
+Se optar por seguir o processo por conta própria, é fundamental acessar o site de agendamento de citações da [DGT](https://sedeapl.dgt.gob.es/WEB\_NCIT\_CONSULTA/consultacanjes/consultarCitaCanjes.faces) e ficar monitorando diariamente por vagas.
 
 > Uma estratégia eficaz para encontrar uma vaga de agendamento é utilizar bots disponíveis no Telegram e no Twitter, que compartilham diariamente as vagas disponíveis em grupos dedicados.
 
@@ -222,7 +220,7 @@ Sites que oferecem mais opções de aluguel direto com proprietário (mais difí
 * [Badi](https://badi.com/es/)
 * [Piso compartido](https://www.pisocompartido.com/)
 
-### Requisitos
+### Aluguel
 
 A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas oferece mais segurança ao proprietário. Estes são alguns dos requisitos mais comuns:
 
@@ -235,6 +233,12 @@ A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas of
 * Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
 
 É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas não e o padrão.
+
+### Compra/Hipoteca
+
+* Link de pessoa do TikTok que fez tudo sozinha: [https://taplink.cc/ytusinfiltro](https://taplink.cc/ytusinfiltro). Perfil no TikTok: [https://www.tiktok.com/@ytusinfiltro](https://www.tiktok.com/@ytusinfiltro)
+* Serviço de acompanhamento feito por Elaine: [http://investirnaespanha.com/](http://investirnaespanha.com/)
+* Serviço de acompanhamento e consultas feitos por Montse Cespedosa: [https://montsecespedosa.com/](https://montsecespedosa.com/)
 
 ### Serviços
 
@@ -258,6 +262,10 @@ A maioria das pessoas na Espanha usa a opção de contrato ao invés de prepago 
 #### Mudança
 
 * [Sirelo](https://sirelo.es/)
+
+### Outros
+
+Pra evitar os pisos turísticos: [https://www.instagram.com/lamataobras/](https://www.instagram.com/lamataobras/)
 
 ## Saúde
 
@@ -316,7 +324,7 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 * [Carrefour](https://www.carrefour.es/) e [Carrefour Express](https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/)
 * [Alcampo](https://www.alcampo.es/compra-online/)
 * [Eroski](https://www.eroski.es/) (não tem em todas as cidades)
-* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral este da Espanha)
+* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral leste da Espanha)
 * [El Corte Inglés](https://www.elcorteingles.es/)
 
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
