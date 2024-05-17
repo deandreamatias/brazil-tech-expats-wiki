@@ -1,4 +1,4 @@
-# 🇸🇪 Suécia
+# Suécia
 
 {% hint style="info" %}
 Estas informações podem estar desatualizadas e são apenas uma orientação.
@@ -10,9 +10,7 @@ Muitos também vem atraídos pela qualidade de vida do país. Entretanto, fique 
 
 E também existem problemas como a Suécia ser um dos países mais solitários do mundo e ter diversos problemas de socialização e políticos (atualmente). Pra algumas pessoas, isso pode ser um no-no bem considerável.
 
-
 ## Cidades
-
 
 ## Documentação e burocracia
 
@@ -22,7 +20,7 @@ Todo o pedido de visto deve ser feito pela empresa contratante, e o funcionário
 
 Em geral, você só precisa de um passaporte válido e um formulário que o empregador normalmente pede pra preencher e iniciar o processo do visto.
 
-Recentemente o governo comecou a reformar a lei de imigracão, e várias mudanças relevantes estão sendo implementadas e serão descritas nesse documento. Uma das mudanças é que agora você só pode ter um visto tendo um contrato de trabalho real e assinado (antes, somente um termo de intenção era suficiente). 
+Recentemente o governo comecou a reformar a lei de imigracão, e várias mudanças relevantes estão sendo implementadas e serão descritas nesse documento. Uma das mudanças é que agora você só pode ter um visto tendo um contrato de trabalho real e assinado (antes, somente um termo de intenção era suficiente).
 
 Isso passou a ser feito para proteger os imigrantes de propostas "furadas" ou empregadores que modificavam a proposta e apresentavam um contrato diferente do acordado quando o funcionário chegava ao país. Hoje um contrato firme é necessário para se emitir o visto e evitar esse problema.
 
@@ -30,11 +28,9 @@ O visto para cônjuges e filhos é solicitado e emitido ao mesmo tempo do visto 
 
 Por ex: Hoje caso o titular tenha conseguido cidadania, mas o cônjuge nao trabalhe na Suécia, ao invés da cidadania, a Migrationsverket apenas estende o visto temporário indefinidamente, até que a pessoa atenda as condições necessárias.
 
-
 {% hint style="info" %}
 Lembre-se: Um contrato assinado tem quase peso de lei na Suécia. LEIA COM ATENÇÃO O QUE VOCE ESTÁ ASSINANDO!
 {% endhint %}
-
 
 ### Definições básicas
 
@@ -60,7 +56,6 @@ Após a chegada na Suécia e a instalação na sua primeira residência, você p
 
 É recomendado tambem nesse passo, levar o contrato de aluguel do imóvel que você mora hoje, pois o cartão é enviado pelo correio, e o funcionário precisa registrar o endereço (e o contrato ajuda BASTANTE nessa hora).
 
-
 {% hint style="info" %}
 Lembre-se: Você deve agendar um horário para CADA pessoa que vai emitir o visto. Se forem 3 pessoas em uma família, então são 3 horários.
 {% endhint %}
@@ -77,9 +72,9 @@ Você pode clicar [**aqui**](https://www.skatteverket.se/servicelankar/otherlang
 
 O link acima também dá maiores informações sobre onde ir para fazer o cadastro.
 
-Após ter finalmente o visto em mãos e feito a emissão do personnummer, você deve agendar um horário na Skatteverket para emissão do cartão de identidade. Lembrando também que é cobrada uma taxa (atualmente 400 SEK por pessoa) para emissão do documento. 
+Após ter finalmente o visto em mãos e feito a emissão do personnummer, você deve agendar um horário na Skatteverket para emissão do cartão de identidade. Lembrando também que é cobrada uma taxa (atualmente 400 SEK por pessoa) para emissão do documento.
 
-Esse agendamento pode ser marcado clicando [**aqui**](https://www.skatteverket.se/servicelankar/otherlanguages/inenglishengelska/individualsandemployees/livinginsweden/idcard/idcardapplicationconditions.4.3810a01c150939e893f1daea.html). 
+Esse agendamento pode ser marcado clicando [**aqui**](https://www.skatteverket.se/servicelankar/otherlanguages/inenglishengelska/individualsandemployees/livinginsweden/idcard/idcardapplicationconditions.4.3810a01c150939e893f1daea.html).
 
 Lembre-se que você já deve ter pago a taxa ao ir no escritório, não precisa ser pago antes do agendamento.
 
@@ -103,7 +98,6 @@ Os bancos digitais normalmente aceitos (e que pagam em SEK e não precisam de pe
 * Revolut
 
 Após todo esse processo você pode-se considerar um residente minimamente funcional na Suécia.
-
 
 ### Visto de nômade digital
 
@@ -154,7 +148,6 @@ Como imigrante é praticamente impossível você conseguir alugar um imovel de c
 Na Suécia, sublocação e algo permitido, como uma forma de resolver o deficit. Os contratos de aluguel são divididos em 2 modalidades:
 
 * Primeira mão (förstahand): É o contrato de locação tradicional de imóveis, similar ao do Brasil. Em geral, eles são oferecidos por Bostadsbolags ou pelos sistemas de fila do governo (onde os alugueis são infinitamente mais baratos, mas você precisa ficar por anos numa fila pra alugar um imóvel).
-
 * Segunda mão (andrahand): É o contrato de sublocacão vigente na Suécia. Em geral você subloca o apartamento de algum inquilino que precise sair do apartamento por algum motivo, porém não quer abrir mão do imóvel, ou de alguma empresa dona do imóvel. Em geral esses contratos são bem mais caros, porem é mais fácil conseguir imóveis por eles.
 
 Os suecos em média são bem preconceituosos com quem nao faz negócios em sueco. Caso precise de um apartamento de segunda mão, sempre negocie na internet usando o Google translator. Suas chances de achar um imovel vão aumentar BASTANTE!
@@ -174,7 +167,6 @@ Algumas empresas são:
 
 * [Willhem](https://willhem.se)
 * [Victoriahem](https://www.victoriahem.se/)
-
 
 ### Portais
 
@@ -233,7 +225,7 @@ Você pode localizar as clínicas ligando para o 1177 (eles tem atendimento em i
 
 ### Cinema
 
-Na Suécia, mesmo não falando sueco você consegue usufruir de um cineminha normalmente. A grande maioria dos filmes são legendados em Sueco com áudio em Ingles (excluindo as produções locais). 
+Na Suécia, mesmo não falando sueco você consegue usufruir de um cineminha normalmente. A grande maioria dos filmes são legendados em Sueco com áudio em Ingles (excluindo as produções locais).
 
 A maior rede de cinemas local e a [Filmstaden](https://filmstaden.se) e os ingressos são bem acessíveis.
 
@@ -271,7 +263,6 @@ Se planeje com antencedência porque se não podem só sobrar os lugares de meno
 * [SJ](https://www.sj.se) (estatal - trens de longa distância e alguns regionais)
 * [MTRX](https://www.mtrx.se) (privado - somente trens de longa distância)
 * [Flixtrain](https://www.flixtrain.se) (privado - Operador mais barato para a rota Gothemburgo > Estolcomo)
-
 * Se voce mora em Västra Gotalands Län:
   * [Västtraffik](https://vasttraffik.se) - Operador local de ônibus, bondes e trens suburbanos e regionais/pendulares.
 * Se voce mora em Stockholm län:

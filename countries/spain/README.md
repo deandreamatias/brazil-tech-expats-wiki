@@ -73,13 +73,16 @@ Lugares importantes onde mudar
 * Bancos
   * BBVA é presencial atualmente (jan/24)
 * Posto de saúde (presencial)
-  * Na GVA, você pode receber uma mensagem que o novo cartão está pronto e dai é só ir buscar
+  * Comunidad Valenciana (GVA)
+    * Você pode receber uma mensagem que o novo cartão está pronto e dai é só ir buscar
 * _Empadronamiento_/Prefeitura (presencial)
-  * A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page\&cid=1254734719723\&lang=es\_ES\&p=1254734719723\&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procuar fazer via digital.
+  * A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page\&cid=1254734719723\&lang=es\_ES\&p=1254734719723\&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procurar fazer via digital.
 
 Outros lugares de interesse
 
 * Contas de compras online
+  * Consum tem um formulário pra trocar diretamente no site. Quando solicitar, que seja tanto a mudança no sistema de Sócio como no sistema de compra online (tienda.consum.es)
+* O2 e provavelmente outras companhias: cuidado pra que façam a transferência de todos os produtos juntos. Exemplo: celular + fibra. É possível que façam por separado e que você fique com o celular no NIE e a fibra com o DNI
 
 ### Visto de nômade digital
 
@@ -240,6 +243,30 @@ A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas of
 * Serviço de acompanhamento feito por Elaine: [http://investirnaespanha.com/](http://investirnaespanha.com/)
 * Serviço de acompanhamento e consultas feitos por Montse Cespedosa: [https://montsecespedosa.com/](https://montsecespedosa.com/)
 
+### Mudança
+
+#### Troca endereço
+
+Tenha em conta que você terá que trocar o endereço em todos os serviços possíveis
+
+* _Empadronamiento_/Prefeitura (presencial)
+*   No sistema da RedSara, é possível fazer a mudança de maneira prática em vários lugares, só que este sistema depende do que seu endereço esteja atualizado no INE. Esta atualização acontece em até 2 meses depois que você mudou o _padrón_.\
+    Caso você queira fazer por ali, deixo aqui o link e um print de como é. \
+    [https://cambiodomicilio.redsara.es/pcd/public/login.xhtml](https://cambiodomicilio.redsara.es/pcd/public/login.xhtml)\
+
+
+    <figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption><p>Sistema RedSara para mudança de domicilio</p></figcaption></figure>
+* Bancos
+  * BBVA é presencial atualmente (jan/24)
+* Saúde
+  * Comunidad valenciana (GVA): Procedimento [https://www.gva.es/es/inicio/procedimientos?id\_proc=95185](https://www.gva.es/es/inicio/procedimientos?id\_proc=95185)
+* Contas de compras online
+* Companhias de telefone e internet&#x20;
+
+#### Frete/Serviços
+
+* [Sirelo](https://sirelo.es/)
+
 ### Serviços
 
 #### Internet e telefone
@@ -257,11 +284,7 @@ Operadoras:
   * [Digi](https://www.digimobil.es/). Varias pessoas tem e não houveram reclamações
   * [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
 
-A maioria das pessoas na Espanha usa a opção de contrato ao invés de prepago para celular.
-
-#### Mudança
-
-* [Sirelo](https://sirelo.es/)
+A maioria das pessoas na Espanha usa a opção de contrato ao invés de pré-pago para celular.
 
 ### Outros
 
