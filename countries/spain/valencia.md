@@ -133,6 +133,12 @@ Recomendações das pessoas do canal #valencia:
 * [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
 * [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
 
+#### Restaurantes com comida Brasileira
+
+As vezes pode ter vontade de comer algo mais comum da gastronomia brasileira. Aqui tem uma lista de lugares em Valência: [https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA](https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA)
+
+Lembre-se que ainda que sirvam pratos típicos igual que no Brasil, é bem provável que o sabor seja diferente pela origem e transporte dos produtos.
+
 ## Serviços gerais
 
 * Alex Saraiva - [+34 642 44 90 71](tel:+34642449071): Instalação de ar-condicionado (consultar sobre outros serviços de _manitas_)

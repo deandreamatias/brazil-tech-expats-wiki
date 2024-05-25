@@ -308,6 +308,12 @@ Geralmente os seguros de saúde privados mais recomendados pela comunidade são 
 * [Adeslas](https://www.segurcaixaadeslas.es/)
 * [DKV](https://dkv.es/particulares)
 
+## Família
+
+### Escolas
+
+Existe esta plataforma pra ver que escolas tem nas cidades e de que tipo são (concertadas, públicas, laicas, religiosas, etc): [https://www.micole.net/](https://www.micole.net/)
+
 ## Transporte
 
 ### Trem
