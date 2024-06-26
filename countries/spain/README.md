@@ -232,10 +232,15 @@ A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas of
 * Valores:
   * Um mês de aluguel adiantado
   * Um caução (_fianza_)
-  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto deve mudar com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx)
+  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto mudou com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx), mas as imobiliárias dão _jeitinhos_ pra cobrar. Da pra reclamar a posteriori, mas pode-se estender a vias legais.
 * Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
 
 É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas não e o padrão.
+
+A seguir una lista de sindicatos de _inquilinos_ de aluguel, por se precisarem orientação legal ou reclamar direitos:
+
+* Madrid [https://www.inquilinato.org/](https://www.inquilinato.org/)
+* Barcelona (e por enquanto Valencia também) [https://sindicatdellogateres.org/](https://sindicatdellogateres.org/)
 
 ### Compra/Hipoteca
 
@@ -285,6 +290,13 @@ Operadoras:
   * [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
 
 A maioria das pessoas na Espanha usa a opção de contrato ao invés de pré-pago para celular.
+
+#### Luz
+
+Comparadores de tarifas de luz
+
+* [https://www.simuladorfacturaluz.es/comparador-tarifas-luz/](https://www.simuladorfacturaluz.es/comparador-tarifas-luz/)
+* [https://www.grinchenergetico.es/simulador\_web.html](https://www.grinchenergetico.es/simulador\_web.html)
 
 ### Outros
 

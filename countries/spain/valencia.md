@@ -116,7 +116,7 @@ Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https
 ### Comunidades
 
 * [Valencia Codes](https://valenciacodes.com/)
-* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared\_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ)
+* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared\_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ) - [https://vlctechfest.org/es/](https://vlctechfest.org/es/) eventos anuais (quase todo ano)
 
 ### Comida
 
@@ -138,6 +138,14 @@ Recomendações das pessoas do canal #valencia:
 As vezes pode ter vontade de comer algo mais comum da gastronomia brasileira. Aqui tem uma lista de lugares em Valência: [https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA](https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA)
 
 Lembre-se que ainda que sirvam pratos típicos igual que no Brasil, é bem provável que o sabor seja diferente pela origem e transporte dos produtos.
+
+#### Compra
+
+Os mercados municipais geralmente tem produtos locais ou nacionais.
+
+Também há outros meios como:
+
+* [https://mastikalhorta.com/](https://mastikalhorta.com/)
 
 ## Serviços gerais
 
