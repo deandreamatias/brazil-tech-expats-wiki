@@ -159,24 +159,24 @@ Também há outros meios como:
 ### Hospital Veterinario de la Universidad Católica de Valencia (UCV)
 - **Dirección**: Avenida de Pérez Galdós Nº 51, 46018, Valencia
 - **Teléfono**: 96 321 71 13
-- [Google Maps Link](https://goo.gl/maps/6tQUxYjUucQ3sPCN9)
+- [Google Maps Link](https://g.co/kgs/S81fcHu)
 
 ### Hospital Veterinario Archiduque Carlos
 - **Dirección**: C/ Archiduque Carlos Nº 48, 46014, Valencia
 - **Teléfono**: 96 378 44 40
-- [Google Maps Link](https://goo.gl/maps/s8ChM9gkvNn)
+- [Google Maps Link](https://g.co/kgs/KGNehjx)
 
 ### Hospital Veterinario Benipeixcar
 - **Dirección**: Avenida de la Constitución Nº 68 Bajo Izquierda, 46009, Valencia
 - **Teléfono**: 96 348 30 98
-- [Google Maps Link](https://goo.gl/maps/7xxE2SLz4s32)
+- [Google Maps Link](https://g.co/kgs/JqjNQNj)
 
 ### AniCura Valencia Sur
 - **Dirección**: Avenida de Picassent Nº28, 46460, Silla (Valencia)
 - **Teléfono**: 96 120 38 05
-- [Google Maps Link](https://goo.gl/maps/ZRJa7qEjZys)
+- [Google Maps Link](https://g.co/kgs/enMFm7r)
 
 ### Auna Especialidades Veterinarias
 - **Dirección**: Parque Empresarial Táctica, C/ de L'Algepser Nº22, 46980, Paterna (Valencia)
 - **Teléfono**: 96 026 60 66
-- [Google Maps Link](https://goo.gl/maps/9EZWYCTmFR62)
+- [Google Maps Link](https://g.co/kgs/sHsrpkR)
