@@ -152,9 +152,9 @@ Também há outros meios como:
 * Alex Saraiva - [+34 642 44 90 71](tel:+34642449071): Instalação de ar-condicionado (consultar sobre outros serviços de _manitas_)
 * [Peluquería canina Mimos](https://peluqueriacaninamimos.com/): Loja física em Quart de Poblet da pet groomer Ana Júlia
 
-### Mascotas
+## Mascotas
 
-## Lista de Hospitales Veterinarios
+### Lista de Hospitales Veterinarios
 
 ### Hospital Veterinario de la Universidad Católica de Valencia (UCV)
 - **Dirección**: Avenida de Pérez Galdós Nº 51, 46018, Valencia
