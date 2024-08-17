@@ -9,5 +9,6 @@
 * [🇳🇱 Países Baixos](countries/netherlands.md)
 * [🇪🇸 Espanha](countries/spain/README.md)
   * [🥘 Valência](countries/spain/valencia.md)
+* [🇩🇪 Germany](germany.md)
 * [Suécia](countries/sweden/README.md)
   * [🥘 Gotemburgo](sweden/gotemburgo.md)

@@ -62,6 +62,28 @@ Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após 
 
 \[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)
 
+### Documentos para a solicitação da cidadania por tempo de residência
+
+{% hint style="info" %}
+A lista abaixo não é definitiva, visto que a lista de documentos varia caso a caso (e.g. nacionalidade do aplicante).
+{% endhint %}
+
+Abaixo é apresentada uma lista não-exaustiva dos documentos solicitados para o processo de cidadania espanhola por residência:
+
+1. Certidão de nascimento **inteiro teor** (apostilada e traduzida)
+2. Certidão de casamento (apostilada e traduzida)
+3. Certidão de antecedentes criminais
+   1. Brasileira (apostilada e traduzida)
+   2. De países resididos antes de se mudar para a Espanha (esse requisito é discutível, pois algumas pessoas aplicam sem, outras com, não há consenso 🤷‍♂️)
+4. Histórico de empadronamento
+5. Certificado DELE (_apenas para aplicantes oriundos de países que não tem o espanhol como língua oficial_)
+6. Certificado CCSE
+7. Resolucao de concessao de autorizacao de residencia
+8. TIE
+9. Passaporte
+
+> Se você residiu na Alemanha 🇩🇪, sugere-se ver [essa seção](../../germany.md#solicitando-um-fuhrungszeugnis-no-exterior), que explica o processo para solicitar a certidão de antecedentes criminais alemã (_Führungszeugnis_) apostilada quando já não se vive mais na Alemanha.
+
 ### Mudança de NIE a DNI
 
 Lugares importantes onde mudar
@@ -256,9 +278,8 @@ Tenha em conta que você terá que trocar o endereço em todos os serviços poss
 
 * _Empadronamiento_/Prefeitura (presencial)
 *   No sistema da RedSara, é possível fazer a mudança de maneira prática em vários lugares, só que este sistema depende do que seu endereço esteja atualizado no INE. Esta atualização acontece em até 2 meses depois que você mudou o _padrón_.\
-    Caso você queira fazer por ali, deixo aqui o link e um print de como é. \
-    [https://cambiodomicilio.redsara.es/pcd/public/login.xhtml](https://cambiodomicilio.redsara.es/pcd/public/login.xhtml)\
-
+    Caso você queira fazer por ali, deixo aqui o link e um print de como é.\
+    [https://cambiodomicilio.redsara.es/pcd/public/login.xhtml](https://cambiodomicilio.redsara.es/pcd/public/login.xhtml)\\
 
     <figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption><p>Sistema RedSara para mudança de domicilio</p></figcaption></figure>
 * Bancos
@@ -266,7 +287,7 @@ Tenha em conta que você terá que trocar o endereço em todos os serviços poss
 * Saúde
   * Comunidad valenciana (GVA): Procedimento [https://www.gva.es/es/inicio/procedimientos?id\_proc=95185](https://www.gva.es/es/inicio/procedimientos?id\_proc=95185)
 * Contas de compras online
-* Companhias de telefone e internet&#x20;
+* Companhias de telefone e internet
 
 #### Frete/Serviços
 
