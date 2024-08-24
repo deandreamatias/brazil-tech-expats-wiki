@@ -1,33 +1,24 @@
-# Brazil Tech Expats Wiki
+# Introduction
+
+## Brazil Tech Expats Wiki
 
 Brazil Tech Expats Wiki é o lugar onde acumulamos o conhecimento da comunidade Brasileira de expats.
 
-## Running locally
+Este es un fork [do original](https://github.com/brazil-tech-expats/wiki) que nao conseguem publicar na web.&#x20;
 
-We use [GitBook](https://github.com/GitbookIO/gitbook) to build our wiki.
+### Wanna help?
 
-TL;DR to run locally:
-
-```bash
-$ npm install -g gitbook-cli
-$ gitbook serve
-```
-
-More info [here](https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md)
-
-## Wanna help?
-
-1. Check the [issues](https://github.com/brazil-tech-expats/wiki/issues) or open a [new one](https://github.com/brazil-tech-expats/wiki/issues/new).
+1. Check the [issues](https://github.com/deandreamatias/brazil-tech-expats-wiki/issues) or open a [new one](https://github.com/deandreamatias/brazil-tech-expats-wiki/issues/new).
 2. Fork it!
 3. Create your feature branch: `git checkout -b my-new-topic`
 4. Commit your changes: `git commit -m 'Add a topic'`
 5. Push to the branch: `git push origin my-new-topic`
-6. Submit a pull request :D
+6. Submit a [pull request](https://github.com/deandreamatias/brazil-tech-expats-wiki/pulls) :D
 
-## Repos relacionados
+### Repos relacionados
 
-- [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
+* [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
 
-# Código de Conduta
+## Código de Conduta
 
-[Código de Conduta](/CdC.md)
+[Código de Conduta](https://brazil-tech-expats.gitbook.io/wiki/codigo-de-conduta)
