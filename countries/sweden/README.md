@@ -1,4 +1,4 @@
-# Suécia
+# 🇸🇪 Suécia
 
 {% hint style="info" %}
 Estas informações podem estar desatualizadas e são apenas uma orientação.

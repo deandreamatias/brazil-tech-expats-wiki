@@ -17,7 +17,7 @@ A diferença do que acontece na Catalunha, o valenciano existe no entorno cultur
 A partir de uma experiência pessoal de uma das integrantes da comunidade, escrevo esta informação.
 
 * A cita para a _carta de invitación_ em Valência cidade, é básicamente impossível de conseguir pelo site. Depois de muita procura, se achou alguma informação nas resenhas do Google
-  *   Procedimento em 2023:&#x20;
+  *   Procedimento em 2023:
 
       <figure><img src="../../.gitbook/assets/WhatsApp Image 2023-07-08 at 11.55.06.jpeg" alt="" width="375"><figcaption><p><em>Tablón</em> de anuncios na frente da policia (Calle zapadors)</p></figcaption></figure>
   * Procedimento em 2022: [https://goo.gl/maps/y3Rmn5AxEKkeeMsn9](https://goo.gl/maps/y3Rmn5AxEKkeeMsn9)
@@ -133,6 +133,8 @@ Recomendações das pessoas do canal #valencia:
 * [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
 * [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
 
+#### [Agua de Valência](https://es.wikipedia.org/wiki/Agua\_de\_Valencia)
+
 #### Restaurantes com comida Brasileira
 
 As vezes pode ter vontade de comer algo mais comum da gastronomia brasileira. Aqui tem uma lista de lugares em Valência: [https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA](https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA)
@@ -149,34 +151,39 @@ Também há outros meios como:
 
 ## Serviços gerais
 
-* Alex Saraiva - [+34 642 44 90 71](tel:+34642449071): Instalação de ar-condicionado (consultar sobre outros serviços de _manitas_)
+* Oscar +34 605 960 886: Instalação de ar-condicionado
 * [Peluquería canina Mimos](https://peluqueriacaninamimos.com/): Loja física em Quart de Poblet da pet groomer Ana Júlia
 
 ## Mascotas
 
-### Lista de Hospitales Veterinarios
+### Hospitáis veterinarios
 
-### Hospital Veterinario de la Universidad Católica de Valencia (UCV)
-- **Dirección**: Avenida de Pérez Galdós Nº 51, 46018, Valencia
-- **Teléfono**: 96 321 71 13
-- [Google Maps Link](https://g.co/kgs/S81fcHu)
+#### Hospital Veterinario de la Universidad Católica de Valencia (UCV)
 
-### Hospital Veterinario Archiduque Carlos
-- **Dirección**: C/ Archiduque Carlos Nº 48, 46014, Valencia
-- **Teléfono**: 96 378 44 40
-- [Google Maps Link](https://g.co/kgs/KGNehjx)
+* **Dirección**: Avenida de Pérez Galdós Nº 51, 46018, Valencia
+* **Teléfono**: 96 321 71 13
+* [Google Maps Link](https://g.co/kgs/S81fcHu)
 
-### Hospital Veterinario Benipeixcar
-- **Dirección**: Avenida de la Constitución Nº 68 Bajo Izquierda, 46009, Valencia
-- **Teléfono**: 96 348 30 98
-- [Google Maps Link](https://g.co/kgs/JqjNQNj)
+#### Hospital Veterinario Archiduque Carlos
 
-### AniCura Valencia Sur
-- **Dirección**: Avenida de Picassent Nº28, 46460, Silla (Valencia)
-- **Teléfono**: 96 120 38 05
-- [Google Maps Link](https://g.co/kgs/enMFm7r)
+* **Dirección**: C/ Archiduque Carlos Nº 48, 46014, Valencia
+* **Teléfono**: 96 378 44 40
+* [Google Maps Link](https://g.co/kgs/KGNehjx)
 
-### Auna Especialidades Veterinarias
-- **Dirección**: Parque Empresarial Táctica, C/ de L'Algepser Nº22, 46980, Paterna (Valencia)
-- **Teléfono**: 96 026 60 66
-- [Google Maps Link](https://g.co/kgs/sHsrpkR)
+#### Hospital Veterinario Benipeixcar
+
+* **Dirección**: Avenida de la Constitución Nº 68 Bajo Izquierda, 46009, Valencia
+* **Teléfono**: 96 348 30 98
+* [Google Maps Link](https://g.co/kgs/JqjNQNj)
+
+#### AniCura Valencia Sur
+
+* **Dirección**: Avenida de Picassent Nº28, 46460, Silla (Valencia)
+* **Teléfono**: 96 120 38 05
+* [Google Maps Link](https://g.co/kgs/enMFm7r)
+
+#### Auna Especialidades Veterinarias
+
+* **Dirección**: Parque Empresarial Táctica, C/ de L'Algepser Nº22, 46980, Paterna (Valencia)
+* **Teléfono**: 96 026 60 66
+* [Google Maps Link](https://g.co/kgs/sHsrpkR)

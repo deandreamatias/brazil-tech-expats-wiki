@@ -35,11 +35,23 @@ Na Espanha a burocracia a nível estatal é complicada, com falta de informaçã
   Você vai obter este número quando começar a trabalhar. Geralmente é a empresa quem _da de alta_ (e faz toda a gestão) isto.
 * [**Vida Laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes): Contem as informações sobre os empregos que tem/teve na Espanha, como se fosse uma carteira de trabalho
 
-Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE**
+Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE.**
+
+#### Segurança em documentos
+
+Ao compartilhar documentos de forma online, se recomenda seguir algumas instruçoes por segurança. Você pode ver aqui como debe ser feito no caso do DNI:
+
+<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption><p>Como compartilhar copia de DNI na internet </p></figcaption></figure>
+
+Referencias:&#x20;
+
+[https://x.com/policiaelche/status/1660541163034517505](https://x.com/policiaelche/status/1660541163034517505)
+
+{% embed url="https://www.incibe.es/ciudadania/blog/precauciones-tener-en-cuenta-si-vas-enviar-tu-dni-por-internet" %}
 
 ### Policia
 
-Muitas vezes pode ser difícil dos diferentes processos e burocracias para obter a documentação que você precisa.
+Muitas vezes pode ser difícil fazer os diferentes processos e burocracias para obter a documentação que você precisa.
 
 {% hint style="info" %}
 Sempre é aconselhável contratar advogados especialistas em _extranjería_ para resolver a documentação.
@@ -47,22 +59,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjería_ para
 
 ### Nacionalidade
 
-Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE). Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
-
-* **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas. Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse\&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).                  \[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
-* **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
-
-1. Interpretação de textos (\~60 minutos, com lápis)
-2. Compreensão auditiva (\~40 minutos, com lápis)
-3. Redações (\~50 minutos, com caneta): A parte escrita da prova envolve a redação de um e-mail na tarefa 1, o que se resume a praticar alguns exemplos. Quanto à tarefa 2, há a opção de escolher entre discorrer sobre sua música e cantor favoritos ou compartilhar sobre as férias que gostaria de desfrutar.
-4. Prova de fala (\~10 minutos). A dica é: siga as instruções da prova e em ordem.
-   1. Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;
-   2. Descrever uma foto. São dadas 2 para a escolha.
-   3. Conversa com o examinador.
-
-\[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)
-
-### Documentos para a solicitação da cidadania por tempo de residência
+Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE).&#x20;
 
 {% hint style="info" %}
 A lista abaixo não é definitiva, visto que a lista de documentos varia caso a caso (e.g. nacionalidade do aplicante).
@@ -83,6 +80,23 @@ Abaixo é apresentada uma lista não-exaustiva dos documentos solicitados para o
 9. Passaporte
 
 > Se você residiu na Alemanha 🇩🇪, sugere-se ver [essa seção](../../germany.md#solicitando-um-fuhrungszeugnis-no-exterior), que explica o processo para solicitar a certidão de antecedentes criminais alemã (_Führungszeugnis_) apostilada quando já não se vive mais na Alemanha.
+
+#### Certificados CCSE e DELE A2
+
+Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
+
+* **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas. Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse\&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).                  \[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
+* **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
+
+1. Interpretação de textos (\~60 minutos, com lápis)
+2. Compreensão auditiva (\~40 minutos, com lápis)
+3. Redações (\~50 minutos, com caneta): A parte escrita da prova envolve a redação de um e-mail na tarefa 1, o que se resume a praticar alguns exemplos. Quanto à tarefa 2, há a opção de escolher entre discorrer sobre sua música e cantor favoritos ou compartilhar sobre as férias que gostaria de desfrutar.
+4. Prova de fala (\~10 minutos). A dica é: siga as instruções da prova e em ordem.
+   1. Monólogo - Falar livremente de 2 a 3 minutos de um tema a escolher: No meu caso foram sobre ou a cidade que vivo ou minha infância;
+   2. Descrever uma foto. São dadas 2 para a escolha.
+   3. Conversa com o examinador.
+
+\[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)
 
 ### Mudança de NIE a DNI
 
@@ -156,7 +170,7 @@ Alguns deles são:
 | ----------------------------------------------- | --------------------------------------------------------------------------------- | --------------------------------------------------- |
 | [BBVA](https://www.bbva.es/)                    | [ING](https://www.ing.es/)                                                        | [Revolut](https://www.revolut.com/es-ES/)           |
 | [Caixa Bank](https://www.caixabank.es)          | [Citibank](https://www.citi.com/)                                                 | [OpenBank](https://www.openbank.es/) (by Santander) |
-| [Banco Sabadell](https://www.bancsabadell.com/) | [Deutsche Bank](https://dbonline.deutsche-bank.es/portalserver/olbesportal/login) |                                                     |
+| [Banco Sabadell](https://www.bancsabadell.com/) | [Deutsche Bank](https://dbonline.deutsche-bank.es/portalserver/olbesportal/login) | [N26](https://n26.com/es-es)                        |
 | [Santander](https://www.bancosantander.es/)     | [HSBC](https://www.hsbc.es/)                                                      |                                                     |
 
 A maioria dos bancos vão denegar ou complicar o processo se você disser que só tem o passaporte para abrir a conta. Muita gente já comentou que o Sabadell é uns dos que permite usar o passaporte sem tanto problema.
@@ -233,6 +247,11 @@ Sites que oferecem mais opções de aluguel direto com proprietário (mais difí
 * [Wallapop](https://es.wallapop.com/)
 * [Milanuncios](https://www.milanuncios.com/)
 
+Serviços que exageram em preços&#x20;
+
+* [Sttepping stone](https://www.steppingstonerentals.com/)
+* [Dasha living space](https://dashalivingspace.com/)
+
 #### Curta estadia
 
 * [Homelike](https://www.thehomelike.com/es/)
@@ -258,6 +277,10 @@ A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas of
 * Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
 
 É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas não e o padrão.
+
+{% hint style="info" %}
+Ao alugar, perguntar se o imóvel é registrado como residência. Se não, não vai poder fazer o Empadronamiento.
+{% endhint %}
 
 A seguir una lista de sindicatos de _inquilinos_ de aluguel, por se precisarem orientação legal ou reclamar direitos:
 
@@ -311,6 +334,8 @@ Operadoras:
   * [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
 
 A maioria das pessoas na Espanha usa a opção de contrato ao invés de pré-pago para celular.
+
+Se você recebe ligaçoes indesejadas, pode se cadastrar na [Lista Robinson](https://www.listarobinson.es/). Se continuar, pode até denunciar [https://www.youtube.com/watch?v=z61qFVV8X4w](https://www.youtube.com/watch?v=z61qFVV8X4w).
 
 #### Luz
 
@@ -389,6 +414,12 @@ Existe esta plataforma pra ver que escolas tem nas cidades e de que tipo são (c
 * [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral leste da Espanha)
 * [El Corte Inglés](https://www.elcorteingles.es/)
 
+#### Específicos
+
+* Carnes: [Delicatessen argentina](https://www.deliargentina.com/)
+* Produtos do Brasil: [Kibom](https://kibom.es/es/)
+* Drograria e cosméticos: [Primor](https://www.primor.eu/es\_es/) e [Druni](https://www.druni.es/)
+
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
 
 Nas compras, você deve levar sua própria sacola reutilizável ou seu carrinho de compras, já que as sacolas de plástico ou papel não são grátis.
@@ -455,6 +486,10 @@ Sobre tecnologia
 
 {% embed url="https://open.spotify.com/show/1z6lMMjBfcnJUapUZcDLko?si=a02f5ec1b17e4843" %}
 Sobre questões raciais (e mais coisas) na sociedade espanhola
+{% endembed %}
+
+{% embed url="https://www.rtve.es/play/audios/tamayazo-el-podcast/" %}
+Un thriller político sobre el escándalo que cambió el rumbo de Madrid
 {% endembed %}
 
 {% embed url="https://tudoproalto.com/s/espanha" %}
