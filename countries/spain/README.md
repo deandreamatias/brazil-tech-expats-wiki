@@ -179,6 +179,7 @@ A maioria dos bancos vão denegar ou complicar o processo se você disser que s�
 
 * Bot no Telegram pra informar de novas citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo\_bot)
 * Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check\_cita\_bot](https://t.me/check\_cita\_bot)
+* Buscador de citas para varios assuntos. Serviço pago a partir de 25 Euros. [https://www.robotcita.com/](https://www.robotcita.com/)
 * [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
 
 ## Trabalho
