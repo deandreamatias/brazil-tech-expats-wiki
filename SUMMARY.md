@@ -11,3 +11,4 @@
 * [🇵🇹 Portugal](https://nighto.gitbook.io/brasil-portugal)
 * [🇸🇪 Suécia](countries/sweden/README.md)
   * [Gotemburgo](sweden/gotemburgo.md)
+* [🇨🇭Switzerland](countries/switzerland/README.md)
