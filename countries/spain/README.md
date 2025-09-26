@@ -496,3 +496,23 @@ Un thriller político sobre el escándalo que cambió el rumbo de Madrid
 {% embed url="https://tudoproalto.com/s/espanha" %}
 Experiências de pessoas da TI em Espanha
 {% endembed %}
+
+## Idioma Espanhol
+
+### Indicações professores
+
+> Mehl: Ela é espanhola, mas fala um pouco de português e sabe bem onde erramos no “portunhol”.
+
+- **Augustina**: `+61 481 893 458`
+
+> Bárbara Oliveira: Recomendo minha professora.
+Se chama Marta, é Espanhola, sotaque neutro e um amor de pessoa. 
+
+> Lucas Monteiro: Tem a Marta. Ela é espanhola. Eu e alguns conhecidos já fizemos aula com ela, foi bem bom!
+
+- **Marta**: `+34 611 07 69 78` [https://profemarta.es/](https://profemarta.es/)
+
+
+> Renato Viço: Opa eu tenho uma que cobra bem barato, e é BR vivendo aqui há mais de 15 anos
+
+- **Sabri**: `+34 617 55 32 23`
