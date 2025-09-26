@@ -497,9 +497,9 @@ Un thriller político sobre el escándalo que cambió el rumbo de Madrid
 Experiências de pessoas da TI em Espanha
 {% endembed %}
 
-## Idioma Espanhol
+### Idioma
 
-### Indicações professores
+#### Professores/as
 
 > Mehl: Ela é espanhola, mas fala um pouco de português e sabe bem onde erramos no “portunhol”.
 
