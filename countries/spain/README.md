@@ -181,6 +181,8 @@ A maioria dos bancos vão denegar ou complicar o processo se você disser que s�
 * Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check\_cita\_bot](https://t.me/check\_cita\_bot)
 * Buscador de citas para varios assuntos. Serviço pago a partir de 25 Euros. [https://www.robotcita.com/](https://www.robotcita.com/)
 * [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
+* [Legalitas](https://www.legalitas.com): É um serviço de suscrição de consultas pra advogados. Você paga entre 20 a 45 € por mes e pode perguntar o que quiser pra eles. Dependendo o plano, eles fazem coisas pra você
+To usando faz uns 6 meses (plano Contigo Plus) de e já fiz 13 consultas: muitas de hipoteca, duvidas de contrato trabalho e uma reclamação a um cara que não me fez fatura pra uma instalação. Este último o advogado fez as todas cartas e procedimentos pra reclamar o caso.
 
 ## Trabalho
 
