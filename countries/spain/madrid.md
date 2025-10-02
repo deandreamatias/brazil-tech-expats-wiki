@@ -4,10 +4,11 @@
 Antes de ler esta página, leia a página de [Espanha](./) pra ter um contexto a nível nacional
 {% endhint %}
 
-## Transporte
+{% hint style="warning" %}
+WIP
+{% endhint %}
 
-Se recomenda como regra geral, adquirir o título de transporte [SUMA](https://atmv.gva.es/es/suma) que se pode usar metrô (MetroValencia), ônibus da cidade (EMT vermelho) e ônibus da área metropolitana (MetroBus amarelo).\
-Atualmente existem a zona A (mais central), zona B (municípios mais longe) e zona do Aeroporto
+## Transporte
 
 ### Carro
 
@@ -66,98 +67,3 @@ https://www.metromadrid.es/es/viaja-en-metro/titulos-y-tarifas/tipos-de-tarjeta
 
 * Serviço municipal público-privado de bikes, [BiciMad](https://www.bicimad.com)
 * Comprar uma bike usada no Wallapop
-
-## Lazer
-
-* Link de site de turismo oficial: [https://www.visitvalencia.com/](https://www.visitvalencia.com/)
-
-### Cinema
-
-A maioria dos cinemas da cidade estão dentro dos shoppings.
-
-Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https://www.westfield.com/spain/bonaire) e dá pra ir lá de ônibus e de carro.
-
-### Esportes
-
-* [Esportes ao ar livre](https://www.valenciabeachbol.com/)
-* [OndaFC](https://www.ondafc.es/en/) (futebol)
-
-### Shows
-
-* [Concerts de vivers](https://concertsdevivers.com/)
-* [Big sound festival](https://bigsoundfestival.com/)
-
-### Comunidades
-
-* [Valencia Codes](https://valenciacodes.com/)
-* [VLCTechHub](https://join.slack.com/t/vlctechhub/shared\_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ) - [https://vlctechfest.org/es/](https://vlctechfest.org/es/) eventos anuais (quase todo ano)
-
-### Comida
-
-#### Cafeteria/Coworking
-
-O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
-
-#### Paella
-
-[Paella](https://es.wikipedia.org/wiki/Paella) é o prato típico de Valência. Tenha em conta que a Paella é um prato que se come no almoço e _os locais_ acham uma aberração comer na janta, ainda que tenha restaurante que ofereça.
-
-Recomendações das pessoas do canal #valencia:
-
-* [https://goo.gl/maps/JE8A9k1SzHM4P68e6](https://goo.gl/maps/JE8A9k1SzHM4P68e6)
-* [https://goo.gl/maps/Q4nQMkP21gkQLNye6](https://goo.gl/maps/Q4nQMkP21gkQLNye6)
-
-#### [Agua de Valência](https://es.wikipedia.org/wiki/Agua\_de\_Valencia)
-
-#### Restaurantes com comida Brasileira
-
-As vezes pode ter vontade de comer algo mais comum da gastronomia brasileira. Aqui tem uma lista de lugares em Valência: [https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA](https://maps.app.goo.gl/ZrXWX5KE24MnjbTXA)
-
-Lembre-se que ainda que sirvam pratos típicos igual que no Brasil, é bem provável que o sabor seja diferente pela origem e transporte dos produtos.
-
-#### Compra
-
-Os mercados municipais geralmente tem produtos locais ou nacionais.
-
-Também há outros meios como:
-
-* [https://mastikalhorta.com/](https://mastikalhorta.com/)
-
-## Serviços gerais
-
-* Oscar +34 605 960 886: Instalação de ar-condicionado
-* [Peluquería canina Mimos](https://peluqueriacaninamimos.com/): Loja física em Quart de Poblet da pet groomer Ana Júlia
-
-## Mascotas
-
-### Hospitáis veterinarios
-
-#### Hospital Veterinario de la Universidad Católica de Valencia (UCV)
-
-* **Dirección**: Avenida de Pérez Galdós Nº 51, 46018, Valencia
-* **Teléfono**: 96 321 71 13
-* [Google Maps Link](https://g.co/kgs/S81fcHu)
-
-#### Hospital Veterinario Archiduque Carlos
-
-* **Dirección**: C/ Archiduque Carlos Nº 48, 46014, Valencia
-* **Teléfono**: 96 378 44 40
-* [Google Maps Link](https://g.co/kgs/KGNehjx)
-
-#### Hospital Veterinario Benipeixcar
-
-* **Dirección**: Avenida de la Constitución Nº 68 Bajo Izquierda, 46009, Valencia
-* **Teléfono**: 96 348 30 98
-* [Google Maps Link](https://g.co/kgs/JqjNQNj)
-
-#### AniCura Valencia Sur
-
-* **Dirección**: Avenida de Picassent Nº28, 46460, Silla (Valencia)
-* **Teléfono**: 96 120 38 05
-* [Google Maps Link](https://g.co/kgs/enMFm7r)
-
-#### Auna Especialidades Veterinarias
-
-* **Dirección**: Parque Empresarial Táctica, C/ de L'Algepser Nº22, 46980, Paterna (Valencia)
-* **Teléfono**: 96 026 60 66
-* [Google Maps Link](https://g.co/kgs/sHsrpkR)
