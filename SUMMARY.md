@@ -8,6 +8,7 @@
   * [🥘 Valência](countries/spain/valencia.md)
 * [🇩🇪 Germany](countries/germany/README.md)
   * [Berlin](https://marlonbernardes.github.io/awesome-berlin)
+  * [🥘 Valência](countries/spain/valencia.md)
 * [🇳🇱 Países Baixos](countries/netherlands/README.md)
 * [🇵🇹 Portugal](https://nighto.gitbook.io/brasil-portugal)
 * [🇸🇪 Suécia](countries/sweden/README.md)
