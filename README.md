@@ -4,7 +4,7 @@
 
 Brazil Tech Expats Wiki é o lugar onde acumulamos o conhecimento da comunidade Brasileira de expats.
 
-Este es un fork [do original](https://github.com/brazil-tech-expats/wiki) que nao conseguem publicar na web.&#x20;
+Este é um fork [do original](https://github.com/brazil-tech-expats/wiki), que não conseguem atualizar/publicar na web.&#x20;
 
 ### Wanna help?
 
