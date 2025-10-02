@@ -14,6 +14,10 @@ numbeo.com
 
 ## Cidades
 
+{% content-ref url="madrid.md" %}
+[madrid.md](madrid.md)
+{% endcontent-ref %}
+
 {% content-ref url="valencia.md" %}
 [valencia.md](valencia.md)
 {% endcontent-ref %}
