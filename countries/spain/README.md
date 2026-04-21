@@ -14,6 +14,10 @@ numbeo.com
 
 ## Cidades
 
+{% content-ref url="madrid.md" %}
+[madrid.md](madrid.md)
+{% endcontent-ref %}
+
 {% content-ref url="valencia.md" %}
 [valencia.md](valencia.md)
 {% endcontent-ref %}
@@ -24,17 +28,17 @@ Na Espanha a burocracia a nível estatal é complicada, com falta de informaçã
 
 ### Definições básicas
 
-* **DNI**: Documento Nacional de Identificación. Este só tem quem tem a nacionalidade espanhola
-  * [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico.
-  * [MiDNI](https://www.midni.gob.es/): Aplicativo que tem validade legal para **algumas** situações
-* **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI**
-* **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
-* [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online
-* [Cl@ve](https://clave.gob.es/clave_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
-* [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485\&idMateria=21\&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do município que você more.
-* [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria.\
+- **DNI**: Documento Nacional de Identificación. Este só tem quem tem a nacionalidade espanhola
+  - [**DNIe**](https://www.dnielectronico.es/PortalDNIe/): o mesmo que antes mas o eletrônico.
+  - [MiDNI](https://www.midni.gob.es/): Aplicativo que tem validade legal para **algumas** situações
+- **NIE**: Número de Identificación de Extranjero. Este é o número que você vai obter enquanto não tem o **DNI**
+- **TIE**: Tarjeta de Identificación de Extranjero. Este é o documento que irá associado (impresso nele) o **NIE**
+- [**Certificado digital**](https://www.sede.fnmt.gob.es/certificados/persona-fisica)**:** Isto permite a você fazer quase todas (pode até que todas) as burocracias online. Mais completo que a Cl@ve.
+- [Cl@ve](https://clave.gob.es/clave_Home/clave.html): Isto também permite fazer burocracias online, mas nem todas
+- [**Padrón/Empadronamiento**](https://administracion.gob.es/pagFront/tramites/fichaTramite.htm?idTramiteSeleccionado=3485&idMateria=21&idBoletin=21): Este documento certifica onde você mora e é necessário para a maioria de processos burocráticos na Espanha. O local para se registrar e pedir o certificado depois do registro, é a prefeitura (_ayuntamiento_) do município que você more.
+- [**Número de Seguridad Social**](https://www.seg-social.es/wps/portal/wss/internet/Inicio): Um sistema obrigatório que protege os cidadãos espanhóis em caso de necessidade, fornecendo benefícios como desemprego, licença médica ou aposentadoria.\
   Você vai obter este número quando começar a trabalhar. Geralmente é a empresa quem _da de alta_ (e faz toda a gestão) isto.
-* [**Vida Laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes): Contem as informações sobre os empregos que tem/teve na Espanha, como se fosse uma carteira de trabalho
+- [**Vida Laboral**](https://portal.seg-social.gob.es/wps/portal/importass/importass/Categorias/Vida+laboral+e+informes): Contem as informações sobre os empregos que tem/teve na Espanha, como se fosse uma carteira de trabalho
 
 Existe o caso de você poder ter um número associado de **NIE** quando dá entrada em um tipo de residência (a mais comum) e somente depois de aprovado o processo, você poder pegar o **TIE.**
 
@@ -60,7 +64,7 @@ Sempre é aconselhável contratar advogados especialistas em _extranjería_ para
 
 ### Nacionalidade
 
-Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (obtenção do TIE).
+Para os brasileiros, a obtenção da cidadania espanhola torna-se viável após residirem legalmente na Espanha por um período de 2 anos (após a obtenção do TIE).
 
 {% hint style="info" %}
 A lista abaixo não é definitiva, visto que a lista de documentos varia caso a caso (e.g. nacionalidade do aplicante).
@@ -74,20 +78,51 @@ Abaixo é apresentada uma lista não-exaustiva dos documentos solicitados para o
    1. Brasileira (apostilada e traduzida)
    2. De países resididos antes de se mudar para a Espanha (esse requisito é discutível, pois algumas pessoas aplicam sem, outras com, não há consenso 🤷‍♂️)
 4. Histórico de empadronamento
-5. Certificado DELE (_apenas para aplicantes oriundos de países que não tem o espanhol como língua oficial_)
+5. Certificado DELE (_apenas para aplicantes oriundos de países que não tem o espanhol como língua oficial_, como o Brasil)
 6. Certificado CCSE
 7. Resolucao de concessao de autorizacao de residencia
 8. TIE
 9. Passaporte
 
+[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia)
+
 > Se você residiu na Alemanha 🇩🇪, sugere-se ver [essa seção](../../germany.md#solicitando-um-fuhrungszeugnis-no-exterior), que explica o processo para solicitar a certidão de antecedentes criminais alemã (_Führungszeugnis_) apostilada quando já não se vive mais na Alemanha.
 
 #### Certificados CCSE e DELE A2
 
-Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes, entre outras opções disponíveis.
+Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do idioma espanhol. Para atender a essa exigência, são aplicadas duas provas, a CCSE e a DELE A2, ambas sob a coordenação do Instituto Cervantes https://examenes.cervantes.es, entre outras opções disponíveis.
 
-* **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas. Aplicativos oficiais para [Android](https://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse\&pli=1) e [iOS](https://apps.apple.com/es/app/ccse-nacionalidad-espa%C3%B1ola/id1461069757).                  \[+] Informações: [https://examenes.cervantes.es/es/ccse/que-es](https://examenes.cervantes.es/es/ccse/que-es)
-* **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
+Link oficial: https://examenes.cervantes.es/es/presentacion/nacionalidad
+
+Tudo é feito pelo site oficial, você escolhe a cidade e o centro de exame. Há pessoas que só conseguem em cidades distantes de onde moram pelo curto tempo de inscrição.
+
+##### CCSE
+
+> A CCSE é uma prova de conhecimentos constitucionais e socioculturais da Espanha. É uma prova de múltipla escolha, com 25 perguntas, e tem duração de 45 minutos.
+
+Link oficial: https://examenes.cervantes.es/es/ccse/examen
+
+Válido por 4 anos após aprovado. [Referência](https://examenes.cervantes.es/es/ccse/preguntas-frecuentes)
+
+As inscrições geralmente fecham cerca de 3 a 4 semanas antes da prova. Não deixe para a última hora, pois as vagas nos centros de exame costumam esgotar rápido.
+
+- **Dicas para CCSE**: A CCSE é a prova de conhecimentos gerais, composta por um banco de 300 perguntas que não passam por alterações frequentes. Nesse contexto, a principal sugestão é realizar simulados de maneira exaustiva, uma vez que as questões apresentadas serão precisamente aquelas constantes no banco de perguntas.
+  Aplicativos oficiais para [Android](http://play.google.com/store/apps/details?id=com.institutocervantes.pruebaccse) e [iOS](http://itunes.apple.com/es/app/pruebaccse-instituto-cervantes/id1461069757).
+
+[+] Informações: [https://examenes.cervantes.es/es/ccse/preparar-prueba](https://examenes.cervantes.es/es/ccse/preparar-prueba)
+
+##### DELE
+
+[Link oficial](https://examenes.cervantes.es/es/dele)
+
+> É um diploma oficial de espanhol como lingua estranjeira, proveniente do Instituto Cervantes que é reconhecido mundialmente. Seus níveis seguem o padrão europeu de idiomas (A1, A2, B1, B2, C1, C2).
+
+Não tem validade de tempo, ou seja, uma vez obtido, é seu para sempre.
+
+O DELE tem datas mais restritas para as provas. Em torno de 5 vezes ao ano, com inscrições fechando até 1 mês antes da prova. As vagas nos centros de exame costumam esgotar rápido.
+O resultado pode demorar até 3 meses para sair, a dica é fazer a prova alguns meses antes de completar os 2 anos de residência.
+
+- **Dicas para DELE A2**: O DELE A2 é o exame que atesta sua competência nas normas linguísticas básicas do espanhol, abrangendo a compreensão e interpretação de áudios e textos, além da expressão oral. Embora mais extenso, o exame não apresenta complexidades significativas. Ele está estruturado em quatro etapas distintas:
 
 1. Interpretação de textos (\~60 minutos, com lápis)
 2. Compreensão auditiva (\~40 minutos, com lápis)
@@ -97,29 +132,27 @@ Um dos requisitos essenciais é a comprovação do conhecimento da cultura e do 
    2. Descrever uma foto. São dadas 2 para a escolha.
    3. Conversa com o examinador.
 
-\[+] Informações e materiais oficiais: [https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia](https://www.mjusticia.gob.es/es/ciudadania/tramite?k=solicitud-nacionalidad-espanola-residencia), [https://examenes.cervantes.es/es/dele/examenes/a2](https://examenes.cervantes.es/es/dele/examenes/a)
-
 ### Mudança de NIE a DNI
 
 Lugares importantes onde mudar
 
-* _Seguridad social_
-  * Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy\&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass_contenidos/solicitudes/enviar)
-* Agencia tributaria
-  * Online: [_Modelo 030_](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G321.shtml)
-* Bancos
-  * BBVA é presencial atualmente (jan/24)
-* Posto de saúde (presencial)
-  * Comunidad Valenciana (GVA)
-    * Você pode receber uma mensagem que o novo cartão está pronto e dai é só ir buscar
-* _Empadronamiento_/Prefeitura (presencial)
-  * A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page\&cid=1254734719723\&lang=es_ES\&p=1254734719723\&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procurar fazer via digital.
+- _Seguridad social_
+  - Online: [_Enviar solicitud_](https://portal.seg-social.gob.es/wps/portal/importass/importass/inicio?1dmy&urile=wcm%3apath%3a/wps/wcm/connect/importass/importass_contenidos/solicitudes/enviar)
+- Agencia tributaria
+  - Online: [_Modelo 030_](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G321.shtml)
+- Bancos
+  - BBVA é presencial atualmente (jan/24)
+- Posto de saúde (presencial)
+  - Comunidad Valenciana (GVA)
+    - Você pode receber uma mensagem que o novo cartão está pronto e dai é só ir buscar
+- _Empadronamiento_/Prefeitura (presencial)
+  - A priori com mudar o padrón, automaticamente no período de um mês, você deve aparecer no [_Censo Electoral_](https://sede.ine.gob.es/ss/Satellite?c=Page&cid=1254734719723&lang=es_ES&p=1254734719723&pagename=SedeElectronica%2FSELayout)_._ Se não aparecer, ir na _Sede Electrónica_ do INE e procurar fazer via digital.
 
 Outros lugares de interesse
 
-* Contas de compras online
-  * Consum tem um formulário pra trocar diretamente no site. Quando solicitar, que seja tanto a mudança no sistema de Sócio como no sistema de compra online (tienda.consum.es)
-* O2 e provavelmente outras companhias: cuidado pra que façam a transferência de todos os produtos juntos. Exemplo: celular + fibra. É possível que façam por separado e que você fique com o celular no NIE e a fibra com o DNI
+- Contas de compras online
+  - Consum tem um formulário pra trocar diretamente no site. Quando solicitar, que seja tanto a mudança no sistema de Sócio como no sistema de compra online (tienda.consum.es)
+- O2 e provavelmente outras companhias: cuidado pra que façam a transferência de todos os produtos juntos. Exemplo: celular + fibra. É possível que façam por separado e que você fique com o celular no NIE e a fibra com o DNI
 
 ### Visto de nômade digital
 
@@ -137,9 +170,9 @@ Essa regra se deve ao fato de que, durante o processo de troca, a DGT leva em co
 
 Para realizar o trâmite, é necessário providenciar os seguintes documentos:
 
-* Duas fotos 3x4 (carnet);
-* Certificado médico psicotécnico,
-  * É possível economizar nesse processo ao aproveitar descontos de até 50% oferecidos em sites de cupons, e.g.: https://www.groupon.es/deals/centre-medic-sagrada-familia-1
+- Duas fotos 3x4 (carnet);
+- Certificado médico psicotécnico,
+  - É possível economizar nesse processo ao aproveitar descontos de até 50% oferecidos em sites de cupons, e.g.: https://www.groupon.es/deals/centre-medic-sagrada-familia-1
 
 Se optar por seguir o processo por conta própria, é fundamental acessar o site de agendamento de citações da [DGT](https://sedeapl.dgt.gob.es/WEB_NCIT_CONSULTA/consultacanjes/consultarCitaCanjes.faces) e ficar monitorando diariamente por vagas.
 
@@ -153,12 +186,12 @@ Caso possua dúvidas mais específicas, é possível entrar em contato com gesto
 
 <summary>Gestores</summary>
 
-* Iris Joaquin: ![](../../.gitbook/assets/image.png)
-  * Valor do trâmite: 200,00 EUR (IVA + taxa DGT inclusa)
-  * Tempo de espera: (?)
-* [Gestmotor](https://gestoriatrafico.es/)
-  * Valor do trâmite: 79,90 EUR (IVA + taxa DGT inclusa)
-  * Tempo de espera: 2-5 meses
+- Iris Joaquin: ![](../../.gitbook/assets/image.png)
+  - Valor do trâmite: 200,00 EUR (IVA + taxa DGT inclusa)
+  - Tempo de espera: (?)
+- [Gestmotor](https://gestoriatrafico.es/)
+  - Valor do trâmite: 79,90 EUR (IVA + taxa DGT inclusa)
+  - Tempo de espera: 2-5 meses
 
 </details>
 
@@ -178,13 +211,13 @@ A maioria dos bancos vão denegar ou complicar o processo se você disser que s�
 
 ### Utilidades
 
-* Bot no Telegram pra informar de novas citas em algumas prefeituras: [https://t.me/ayuinfo\_bot](https://t.me/ayuinfo_bot)
-* Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check\_cita\_bot](https://t.me/check_cita_bot)
-* Buscador de citas para varios assuntos. Serviço pago a partir de 25 Euros. [https://www.robotcita.com/](https://www.robotcita.com/)
-* [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
-* [Legalitas](https://www.legalitas.com): É um serviço de suscrição de consultas pra advogados. Você paga entre 20 a 45 € por mes e pode perguntar o que quiser pra eles. Dependendo o plano, eles fazem coisas pra você To usando faz uns 6 meses (plano Contigo Plus) de e já fiz 13 consultas: muitas de hipoteca, duvidas de contrato trabalho e uma reclamação a um cara que não me fez fatura pra uma instalação. Este último o advogado fez as todas cartas e procedimentos pra reclamar o caso.
-* Tradutores juramentados: Ver site do ministerio para procurar [https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Buscador-STIJ.aspx](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Buscador-STIJ.aspx)
-* Consultoría de trámites [https://entretramites.com/](https://entretramites.com/)
+- Bot no Telegram pra informar de novas citas em algumas prefeituras: [https://t.me/ayuinfo_bot](https://t.me/ayuinfo_bot)
+- Bot no Telegram para informar de novas citas na policia. Útil para _extranjería_: [https://t.me/check_cita_bot](https://t.me/check_cita_bot)
+- Buscador de citas para varios assuntos. Serviço pago a partir de 25 Euros. [https://www.robotcita.com/](https://www.robotcita.com/)
+- [Mi carpeta ciudadana](https://masinformacioncarpeta.carpetaciudadana.gob.es/infocc/es/masInformacion.html): Aplicação que concentra muitas das informações das diferentes administrações (_ayuntamientos_, _comunidades_ e _estado_) para o cidadão
+- [Legalitas](https://www.legalitas.com): É um serviço de suscrição de consultas pra advogados. Você paga entre 20 a 45 € por mes e pode perguntar o que quiser pra eles. Dependendo o plano, eles fazem coisas pra você To usando faz uns 6 meses (plano Contigo Plus) de e já fiz 13 consultas: muitas de hipoteca, duvidas de contrato trabalho e uma reclamação a um cara que não me fez fatura pra uma instalação. Este último o advogado fez as todas cartas e procedimentos pra reclamar o caso.
+- Tradutores juramentados: Ver site do ministerio para procurar [https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Buscador-STIJ.aspx](https://www.exteriores.gob.es/es/ServiciosAlCiudadano/Paginas/Buscador-STIJ.aspx)
+- Consultoría de trámites [https://entretramites.com/](https://entretramites.com/)
 
 ## Trabalho
 
@@ -198,9 +231,9 @@ Um lugar onde obter contexto do mercado espanhol, é o reporte anual de Manfred:
 
 ### Portais de emprego
 
-* LinkedIn
-* [InfoJobs](https://www.infojobs.net/)
-* [Manfred](https://www.getmanfred.com/ofertas-empleo?onlyActive=true\&currency=%E2%82%AC)
+- LinkedIn
+- [InfoJobs](https://www.infojobs.net/)
+- [Manfred](https://www.getmanfred.com/ofertas-empleo?onlyActive=true&currency=%E2%82%AC)
 
 ### Impostos
 
@@ -218,17 +251,17 @@ Lei similar aos 30% rulling da Holanda, o qual fixa o imposto que você paga em 
 
 Requisitos:
 
-* Não ter sido residente fiscal na espanha nos ultimos 5 anos.
-* Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
+- Não ter sido residente fiscal na espanha nos ultimos 5 anos.
+- Ter um contrato de trabalho espanhol ou obter o visto de nomade digital
 
 Como solicitar:
 
-* Ter a Cl@ve
-* Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
-* Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en_gb/procedimientoini/G606.shtml) com os seguintes documentos
-  * Contrato, contra cheque, Vida Laboral, NIE, Passaporte completo (incluindo paginas em branco)
-* Espere a aprovação (geralmente é rápido, por volta de 10 dias)
-* Apresente a confirmação para o RH da sua empresa
+- Ter a Cl@ve
+- Apresentar o [formulário 030](https://sede.agenciatributaria.gob.es/Sede/en_gb/censos-nif-domicilio-fiscal/declaraciones-censales-modelo-030.html)
+- Apresentar o [formulário 149](https://sede.agenciatributaria.gob.es/Sede/en_gb/procedimientoini/G606.shtml) com os seguintes documentos
+  - Contrato, contra cheque, Vida Laboral, NIE, Passaporte completo (incluindo paginas em branco)
+- Espere a aprovação (geralmente é rápido, por volta de 10 dias)
+- Apresente a confirmação para o RH da sua empresa
 
 ### Empresas
 
@@ -244,46 +277,46 @@ Uma quarta opção são as empresas de outros países da Europa (exemplo Alemanh
 
 Dos mais populares aos menos
 
-* [Idealista](https://www.idealista.com/)
-* [Fotocasa](https://www.fotocasa.es)
-* [Habitaclia](https://www.habitaclia.com/)
-* [Engel\&Volkers](https://www.engelvoelkers.com/es/)
-* [Pisos.com](https://www.pisos.com/)
-* [Yaencontre](https://www.yaencontre.com/) (este reposta no Wallapop com um bot, é um inferno isso)
+- [Idealista](https://www.idealista.com/)
+- [Fotocasa](https://www.fotocasa.es)
+- [Habitaclia](https://www.habitaclia.com/)
+- [Engel\&Volkers](https://www.engelvoelkers.com/es/)
+- [Pisos.com](https://www.pisos.com/)
+- [Yaencontre](https://www.yaencontre.com/) (este reposta no Wallapop com um bot, é um inferno isso)
 
 Sites que oferecem mais opções de aluguel direto com proprietário (mais difícil)
 
-* [Wallapop](https://es.wallapop.com/)
-* [Milanuncios](https://www.milanuncios.com/)
+- [Wallapop](https://es.wallapop.com/)
+- [Milanuncios](https://www.milanuncios.com/)
 
 Serviços que exageram em preços
 
-* [Sttepping stone](https://www.steppingstonerentals.com/)
-* [Dasha living space](https://dashalivingspace.com/)
+- [Sttepping stone](https://www.steppingstonerentals.com/)
+- [Dasha living space](https://dashalivingspace.com/)
 
 #### Curta estadia
 
-* [Homelike](https://www.thehomelike.com/es/)
-* [Spotahome](https://www.spotahome.com/es)
-* [Nestpick](https://www.nestpick.com/es/)
-* [HousingAnywhere](https://housinganywhere.com/es/)
+- [Homelike](https://www.thehomelike.com/es/)
+- [Spotahome](https://www.spotahome.com/es)
+- [Nestpick](https://www.nestpick.com/es/)
+- [HousingAnywhere](https://housinganywhere.com/es/)
 
 #### Quarto
 
-* [Badi](https://badi.com/es/)
-* [Piso compartido](https://www.pisocompartido.com/)
+- [Badi](https://badi.com/es/)
+- [Piso compartido](https://www.pisocompartido.com/)
 
 ### Aluguel
 
 A maioria dos aluguéis é por imobiliária, que complica para quem aluga mas oferece mais segurança ao proprietário. Estes são alguns dos requisitos mais comuns:
 
-* Contrato/fonte de renda estável
-* Que o valor do aluguel não seja mais de 30% do salário
-* Valores:
-  * Um mês de aluguel adiantado
-  * Um caução (_fianza_)
-  * Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto mudou com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx), mas as imobiliárias dão _jeitinhos_ pra cobrar. Da pra reclamar a posteriori, mas pode-se estender a vias legais.
-* Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
+- Contrato/fonte de renda estável
+- Que o valor do aluguel não seja mais de 30% do salário
+- Valores:
+  - Um mês de aluguel adiantado
+  - Um caução (_fianza_)
+  - Um mês pra imobiliária (é tipo uma taxa, não devolve). Este ponto mudou com a nova [Lei de Vivienda](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/transportes/Paginas/2023/170523-ley-derecho-vivienda-aprobacion-definitiva.aspx), mas as imobiliárias dão _jeitinhos_ pra cobrar. Da pra reclamar a posteriori, mas pode-se estender a vias legais.
+- Documentos de identidade. Todas deveriam aceitar o passaporte, mas pode ser que algumas não gostem ou seja um ponto negativo não ter o NIE/DNI
 
 É possível que algumas imobiliárias peçam mais meses adiantados de aluguel, dependendo do seu perfil ou dos procedimentos deles, mas não e o padrão.
 
@@ -293,14 +326,14 @@ Ao alugar, perguntar se o imóvel é registrado como residência. Se não, não 
 
 A seguir una lista de sindicatos de _inquilinos_ de aluguel, por se precisarem orientação legal ou reclamar direitos:
 
-* Madrid [https://www.inquilinato.org/](https://www.inquilinato.org/)
-* Barcelona (e por enquanto Valencia também) [https://sindicatdellogateres.org/](https://sindicatdellogateres.org/)
+- Madrid [https://www.inquilinato.org/](https://www.inquilinato.org/)
+- Barcelona (e por enquanto Valencia também) [https://sindicatdellogateres.org/](https://sindicatdellogateres.org/)
 
 ### Compra/Hipoteca
 
-* Link de pessoa do TikTok que fez tudo sozinha: [https://taplink.cc/ytusinfiltro](https://taplink.cc/ytusinfiltro). Perfil no TikTok: [https://www.tiktok.com/@ytusinfiltro](https://www.tiktok.com/@ytusinfiltro)
-* Serviço de acompanhamento feito por Elaine: [http://investirnaespanha.com/](http://investirnaespanha.com/)
-* Serviço de acompanhamento e consultas feitos por Montse Cespedosa: [https://montsecespedosa.com/](https://montsecespedosa.com/)
+- Link de pessoa do TikTok que fez tudo sozinha: [https://taplink.cc/ytusinfiltro](https://taplink.cc/ytusinfiltro). Perfil no TikTok: [https://www.tiktok.com/@ytusinfiltro](https://www.tiktok.com/@ytusinfiltro)
+- Serviço de acompanhamento feito por Elaine: [http://investirnaespanha.com/](http://investirnaespanha.com/)
+- Serviço de acompanhamento e consultas feitos por Montse Cespedosa: [https://montsecespedosa.com/](https://montsecespedosa.com/)
 
 ### Mudança
 
@@ -308,24 +341,25 @@ A seguir una lista de sindicatos de _inquilinos_ de aluguel, por se precisarem o
 
 Tenha em conta que você terá que trocar o endereço em todos os serviços possíveis
 
-* _Empadronamiento_/Prefeitura (presencial)
-*   No sistema da RedSara, é possível fazer a mudança de maneira prática em vários lugares, só que este sistema depende do que seu endereço esteja atualizado no INE. Esta atualização acontece em até 2 meses depois que você mudou o _padrón_.\
-    Caso você queira fazer por ali, deixo aqui o link e um print de como é.\
-    [https://cambiodomicilio.redsara.es/pcd/public/login.xhtml](https://cambiodomicilio.redsara.es/pcd/public/login.xhtml)\\
+- _Empadronamiento_/Prefeitura (presencial)
+- No sistema da RedSara, é possível fazer a mudança de maneira prática em vários lugares, só que este sistema depende do que seu endereço esteja atualizado no INE. Esta atualização acontece em até 2 meses depois que você mudou o _padrón_.\
+  Caso você queira fazer por ali, deixo aqui o link e um print de como é.\
+  [https://cambiodomicilio.redsara.es/pcd/public/login.xhtml](https://cambiodomicilio.redsara.es/pcd/public/login.xhtml)\\
 
-    <figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption><p>Sistema RedSara para mudança de domicilio</p></figcaption></figure>
-* Bancos
-  * BBVA é presencial atualmente (jan/24)
-* Saúde
-  * Comunidad valenciana (GVA): Procedimento [https://www.gva.es/es/inicio/procedimientos?id\_proc=95185](https://www.gva.es/es/inicio/procedimientos?id_proc=95185)
-* Contas de compras online
-* Companhias de telefone e internet
+  <figure><img src="../../.gitbook/assets/imagen.png" alt=""><figcaption><p>Sistema RedSara para mudança de domicilio</p></figcaption></figure>
+
+- Bancos
+  - BBVA é presencial atualmente (jan/24)
+- Saúde
+  - Comunidad valenciana (GVA): Procedimento [https://www.gva.es/es/inicio/procedimientos?id_proc=95185](https://www.gva.es/es/inicio/procedimientos?id_proc=95185)
+- Contas de compras online
+- Companhias de telefone e internet
 
 #### Frete/Serviços
 
-* [Sirelo](https://sirelo.es/)
-* Ben, de Yousriben Transport [+49 178 7904634](tel:+491787904634) (Alemanha -> Espanha)
-*
+- [Sirelo](https://sirelo.es/)
+- Ben, de Yousriben Transport [+49 178 7904634](tel:+491787904634) (Alemanha -> Espanha)
+-
 
 ### Serviços
 
@@ -335,14 +369,14 @@ A Espanha é um pais que investiu muito na rede de fibra em todo o território, 
 
 Operadoras:
 
-* Mais conhecidas e ~~caras~~ completas
-  * [Movistar](https://www.movistar.es/). A melhor
-  * [Orange](https://www.orange.es/). Ok, mas enchem um pouco o saco com o marketing
-  * ~~Vodafone~~. Evite esta a qualquer custo
-* As secundarias, conhecidas como a _gama média_ e as vezes filiais das anteriores
-  * [O2](https://o2online.es/). Usa tudo da Movistar mas não tem nada de TV ou aparelhos
-  * [Digi](https://www.digimobil.es/). Varias pessoas tem e não houveram reclamações
-  * [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
+- Mais conhecidas e ~~caras~~ completas
+  - [Movistar](https://www.movistar.es/). A melhor
+  - [Orange](https://www.orange.es/). Ok, mas enchem um pouco o saco com o marketing
+  - ~~Vodafone~~. Evite esta a qualquer custo
+- As secundarias, conhecidas como a _gama média_ e as vezes filiais das anteriores
+  - [O2](https://o2online.es/). Usa tudo da Movistar mas não tem nada de TV ou aparelhos
+  - [Digi](https://www.digimobil.es/). Varias pessoas tem e não houveram reclamações
+  - [Pepephone](https://www.pepephone.com/). Parece que da bom serviço também
 
 A maioria das pessoas na Espanha usa a opção de contrato ao invés de pré-pago para celular.
 
@@ -352,8 +386,8 @@ Se você recebe ligaçoes indesejadas, pode se cadastrar na [Lista Robinson](htt
 
 Comparadores de tarifas de luz
 
-* [https://www.simuladorfacturaluz.es/comparador-tarifas-luz/](https://www.simuladorfacturaluz.es/comparador-tarifas-luz/)
-* [https://www.grinchenergetico.es/simulador\_web.html](https://www.grinchenergetico.es/simulador_web.html)
+- [https://www.simuladorfacturaluz.es/comparador-tarifas-luz/](https://www.simuladorfacturaluz.es/comparador-tarifas-luz/)
+- [https://www.grinchenergetico.es/simulador_web.html](https://www.grinchenergetico.es/simulador_web.html)
 
 ### Outros
 
@@ -373,9 +407,9 @@ Nos últimos anos (2023 para atrás), o sistema pública tem sofrido alguns cort
 
 Geralmente os seguros de saúde privados mais recomendados pela comunidade são de:
 
-* [Sanitas](https://www.sanitas.es/)
-* [Adeslas](https://www.segurcaixaadeslas.es/)
-* [DKV](https://dkv.es/particulares)
+- [Sanitas](https://www.sanitas.es/)
+- [Adeslas](https://www.segurcaixaadeslas.es/)
+- [DKV](https://dkv.es/particulares)
 
 ## Família
 
@@ -387,50 +421,50 @@ Existe esta plataforma pra ver que escolas tem nas cidades e de que tipo são (c
 
 ### Trem
 
-* [Renfe ](https://www.renfe.com/es/es)(estatal)
-  * Curiosidade: Se ele atrasar, pode [pedir reembolso](https://www.renfe.com/es/es/ayuda/compromiso-puntualidad)
-* [Trainline](https://www.thetrainline.com/es). Plataforma para comparar as diferentes empresas
+- [Renfe ](https://www.renfe.com/es/es)(estatal)
+  - Curiosidade: Se ele atrasar, pode [pedir reembolso](https://www.renfe.com/es/es/ayuda/compromiso-puntualidad)
+- [Trainline](https://www.thetrainline.com/es). Plataforma para comparar as diferentes empresas
 
 ### Taxi
 
-* [FreeNow](https://www.free-now.com/es/)
-* [Cabify](https://cabify.com/es)
+- [FreeNow](https://www.free-now.com/es/)
+- [Cabify](https://cabify.com/es)
 
 ### Aluguel meios de transporte
 
-* [Cooltra](https://cooltra.com/es/) (motos)
-* [FreeNow](https://www.free-now.com/es/) (dependendo da cidade)
+- [Cooltra](https://cooltra.com/es/) (motos)
+- [FreeNow](https://www.free-now.com/es/) (dependendo da cidade)
 
 ## Lazer
 
 ### Compras
 
-* Ofertas postadas pelos usuários. Igual ao Pelando do Brasil: [Chollometro](https://www.chollometro.com/)
+- Ofertas postadas pelos usuários. Igual ao Pelando do Brasil: [Chollometro](https://www.chollometro.com/)
 
 #### Usado (segunda mano)
 
-* [Wallapop](https://es.wallapop.com/)
-* [Milanuncios](https://www.milanuncios.com/). Este portal tem mais anônimos, você pode encontrar pessoas não tão legais.
-* [Vinted](https://www.vinted.es/). Foco em roupa, calçados e acessórios
+- [Wallapop](https://es.wallapop.com/)
+- [Milanuncios](https://www.milanuncios.com/). Este portal tem mais anônimos, você pode encontrar pessoas não tão legais.
+- [Vinted](https://www.vinted.es/). Foco em roupa, calçados e acessórios
 
 #### Mercado
 
-* [Mercadona](https://www.mercadona.es/)
-* [LIDL](https://www.lidl.es/)
-* [Aldi](https://www.aldi.es/)
-* [Dia](https://www.dia.es/) (tem parceria com Amazon)
-* [Carrefour](https://www.carrefour.es/) e [Carrefour Express](https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/)
-* [Alcampo](https://www.alcampo.es/compra-online/)
-* [Eroski](https://www.eroski.es/) (não tem em todas as cidades)
-* [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral leste da Espanha)
-* [El Corte Inglés](https://www.elcorteingles.es/)
+- [Mercadona](https://www.mercadona.es/)
+- [LIDL](https://www.lidl.es/)
+- [Aldi](https://www.aldi.es/)
+- [Dia](https://www.dia.es/) (tem parceria com Amazon)
+- [Carrefour](https://www.carrefour.es/) e [Carrefour Express](https://www.carrefour.es/tiendas-carrefour/supermercados/carrefour-express/)
+- [Alcampo](https://www.alcampo.es/compra-online/)
+- [Eroski](https://www.eroski.es/) (não tem em todas as cidades)
+- [Consum](https://tienda.consum.es/es) (mais forte na Comunidad Valenciana e no geral leste da Espanha)
+- [El Corte Inglés](https://www.elcorteingles.es/)
 
 #### Específicos
 
-* Carnes: [Delicatessen argentina](https://www.deliargentina.com/)
-* Produtos do Brasil: [Kibom](https://kibom.es/es/)
-* Drograria e cosméticos: [Primor](https://www.primor.eu/es_es/) e [Druni](https://www.druni.es/)
-* Eletrónica: [Mediamarkt](https://www.mediamarkt.es/es/) y [PC Componentes](https://www.pccomponentes.com/)
+- Carnes: [Delicatessen argentina](https://www.deliargentina.com/)
+- Produtos do Brasil: [Kibom](https://kibom.es/es/)
+- Drograria e cosméticos: [Primor](https://www.primor.eu/es_es/) e [Druni](https://www.druni.es/)
+- Eletrónica: [Mediamarkt](https://www.mediamarkt.es/es/) y [PC Componentes](https://www.pccomponentes.com/)
 
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
 
@@ -446,11 +480,11 @@ Se você tem interesse em ver filmes legendados, procure pelos filmes VOSE acrô
 
 Em Espanha os horários de [comida](https://www.guiajando.com/a-que-hora-y-cuantas-veces-se-come-en-espana/) geralmente são:
 
-* Desayuno (8-9 hrs)
-* Almuerzo (11-12 hrs)
-* Comida (14-15 hrs). Equivalente ao almoço do Brasil. Geralmente se come um menú com primer prato, segundo prato e sobremesa/café.
-* Merienda (18-19 hrs)
-* Cena (21-22 hrs)
+- Desayuno (8-9 hrs)
+- Almuerzo (11-12 hrs)
+- Comida (14-15 hrs). Equivalente ao almoço do Brasil. Geralmente se come um menú com primer prato, segundo prato e sobremesa/café.
+- Merienda (18-19 hrs)
+- Cena (21-22 hrs)
 
 Este é um bom referencial para saber a que horários os restaurantes e cafeterias servem as comidas.
 
@@ -476,20 +510,20 @@ Abraços também são comuns quando as pessoas tem mais confiança.
 
 ### Jornais
 
-* [RTVE](https://www.rtve.es/) (estatal)
-* [La Marea](https://www.lamarea.com/) (independente)
-* [El Salto](https://www.elsaltodiario.com/) (independente)
+- [RTVE](https://www.rtve.es/) (estatal)
+- [La Marea](https://www.lamarea.com/) (independente)
+- [El Salto](https://www.elsaltodiario.com/) (independente)
 
 ### Séries
 
 Seriados são um ótimo jeito de conhecer a cultura e principalmente o idioma espanhol com seus diferentes sotaques
 
-* [Aquí no hay quien viva](https://es.wikipedia.org/wiki/Aqu%C3%AD_no_hay_quien_viva_\(serie_de_televisi%C3%B3n_espa%C3%B1ola\))
-* [Aida](https://es.wikipedia.org/wiki/A%C3%ADda_\(serie_de_televisi%C3%B3n_de_Espa%C3%B1a\))
-* [La casa de papel](https://es.wikipedia.org/wiki/La_casa_de_papel). Eu acho que vocês sabem qual é essa daqui
-* [Vis a Vis](https://es.wikipedia.org/wiki/Vis_a_vis_\(serie_de_televisi%C3%B3n\))
-* [Las chicas del cable](https://es.wikipedia.org/wiki/Las_chicas_del_cable)
-* [Paquita Salas](https://es.wikipedia.org/wiki/Paquita_Salas)
+- [Aquí no hay quien viva](<https://es.wikipedia.org/wiki/Aqu%C3%AD_no_hay_quien_viva_(serie_de_televisi%C3%B3n_espa%C3%B1ola)>)
+- [Aida](<https://es.wikipedia.org/wiki/A%C3%ADda_(serie_de_televisi%C3%B3n_de_Espa%C3%B1a)>)
+- [La casa de papel](https://es.wikipedia.org/wiki/La_casa_de_papel). Eu acho que vocês sabem qual é essa daqui
+- [Vis a Vis](<https://es.wikipedia.org/wiki/Vis_a_vis_(serie_de_televisi%C3%B3n)>)
+- [Las chicas del cable](https://es.wikipedia.org/wiki/Las_chicas_del_cable)
+- [Paquita Salas](https://es.wikipedia.org/wiki/Paquita_Salas)
 
 ### Podcasts
 
@@ -523,14 +557,31 @@ Metálico/efectivo = dinheiro em papel, notas
 
 > Mehl: Ela é espanhola, mas fala um pouco de português e sabe bem onde erramos no “portunhol”.
 
-* **Augustina**: `+61 481 893 458`
+- **Augustina**: `+61 481 893 458`
 
 > Bárbara Oliveira: Recomendo minha professora. Se chama Marta, é Espanhola, sotaque neutro e um amor de pessoa.
 
 > Lucas Monteiro: Tem a Marta. Ela é espanhola. Eu e alguns conhecidos já fizemos aula com ela, foi bem bom!
 
-* **Marta**: `+34 611 07 69 78` [https://profemarta.es/](https://profemarta.es/)
+- **Marta**: `+34 611 07 69 78` [https://profemarta.es/](https://profemarta.es/)
 
 > Renato Viço: Opa eu tenho uma que cobra bem barato, e é BR vivendo aqui há mais de 15 anos
 
-* **Sabri**: `+34 617 55 32 23`
+- **Sabri**: `+34 617 55 32 23`
+
+## Sugestões para brasileiros recém chegados
+
+- Conseguir um telefone pré pago com passaporte
+
+- Alguns bancos, presencialmente, consegue abrir conta bancária com passaporte, como BBVA e Santander.
+
+- Solicitar o NIE o quanto antes, sem ele você não consegue fazer quase nada. Assim que tiver o NIE:
+  - Solicitar o TIE (Tarjeta de Identidad de Extranjero -- doc físico na policia)
+  - Fazer a portabilidade e/ou migração do plano de celular para o pós pago
+  - Abrir/atualizar a conta bancária
+  - Conseguir o número de segurança social (NSS)
+
+- Assim que tiver a moradia:
+  - Fazer o certificado digital (nem precisaria da Cl@ve)
+  - Fazer o empadronamiento
+  - Dar alta no sistema de saúde pública (SNS), no posto de saúde mais próximo da sua residência.

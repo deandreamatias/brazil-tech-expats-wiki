@@ -1,4 +1,4 @@
-# Introduction
+# Introdução
 
 ## Brazil Tech Expats Wiki
 
@@ -17,7 +17,7 @@ Este é um fork [do original](https://github.com/brazil-tech-expats/wiki), que n
 
 ### Repos relacionados
 
-* [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
+- [Awesome Berlin](https://github.com/marlonbernardes/awesome-berlin)
 
 ## Código de Conduta
 
