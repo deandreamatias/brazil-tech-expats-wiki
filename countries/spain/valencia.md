@@ -118,12 +118,15 @@ Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https
 * [Valencia Codes](https://valenciacodes.com/)
 * [VLCTechHub](https://join.slack.com/t/vlctechhub/shared_invite/zt-1uwgwmzwg-4cdhd1ZcSfuneN9JCyFQNQ) - [https://vlctechfest.org/es/](https://vlctechfest.org/es/) eventos anuais (quase todo ano)
 * [Women coding community](https://www.linkedin.com/company/womencodingcommunity)
+* [Latinas in tech](https://latinasintech.org/events/latinas-in-tech-spain-in-valencia--summer-networking-brunch)
 
 ### Comida
 
-#### Cafeteria/Coworking
+#### Cafeteria/Coworking/Padaria
 
-O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
+* O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
+* Cafetería e Pastisseria: [Utopia](https://maps.app.goo.gl/vb3DpWUyFmkW7kLq6)
+* Padaria: [Le Roi](https://maps.app.goo.gl/FdL1Xk6h9iYonTaL9)
 
 #### Paella
 
@@ -142,6 +145,10 @@ As vezes pode ter vontade de comer algo mais comum da gastronomia brasileira. Aq
 
 Lembre-se que ainda que sirvam pratos típicos igual que no Brasil, é bem provável que o sabor seja diferente pela origem e transporte dos produtos.
 
+#### Restaurantes
+
+* Italiano: [Dibboca](https://maps.app.goo.gl/515vigt4sbQZYd9Y8)
+
 #### Compra
 
 Os mercados municipais geralmente tem produtos locais ou nacionais.
@@ -152,8 +159,10 @@ Também há outros meios como:
 
 ## Serviços gerais
 
-* Oscar +34 605 960 886: Instalação de ar-condicionado
+* Climatizaciones Piquer (instalcação de AC): +34 619004095. Atende por WhatsApp. Serviço de qualidade feito na pelu de Ana (abaixo)
 * [Peluquería canina Mimos](https://peluqueriacaninamimos.com/): Loja física em Quart de Poblet da pet groomer Ana Júlia
+* Dentista BR: [Emedent](https://maps.app.goo.gl/tb8MFaR39aru2L786)
+* Compra de janelas e persianas a bom preço: [Comfort house](https://www.comforthousepvc.es/)
 
 ## Mascotas
 

@@ -431,6 +431,7 @@ Existe esta plataforma pra ver que escolas tem nas cidades e de que tipo são (c
 * Produtos do Brasil: [Kibom](https://kibom.es/es/)
 * Drograria e cosméticos: [Primor](https://www.primor.eu/es_es/) e [Druni](https://www.druni.es/)
 * Eletrónica: [Mediamarkt](https://www.mediamarkt.es/es/) y [PC Componentes](https://www.pccomponentes.com/)
+* Pets: [Patitas](https://patitasco.com/)
 
 Um costume dos _locais_ que existe em muitos bairros e municípios, é comprar nas lojas de bairro como açougue, padaria, mercados municipais, quitandas e outros.
 
