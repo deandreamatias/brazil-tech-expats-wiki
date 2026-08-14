@@ -122,6 +122,8 @@ Um dos melhores cinemas de Valência, fica fora da cidade. Chama [Bonaire](https
 
 ### Comida
 
+Um app/guia com referencia de bons restaurantes: [https://app.guiahedonista.com/](https://app.guiahedonista.com/). Desenvolvido por Matías de Andrea em [Lobo](https://loboagenciadigital.com/).
+
 #### Cafeteria/Coworking/Padaria
 
 * O [Flyng Been Coffee](https://flyingbeancoffee.com/) é uma cafeteria com cafés bons (segundo a comunidade) e que além disso oferece um espaço de [coworking](https://www.instagram.com/flyingbeanworkspace/) que hoje em dia (maio/23) é frequentado por algumas pessoas do canal #valencia no Slack
