@@ -4,7 +4,7 @@
 Esta é uma página de exceção. Ela só interessa a quem está no regime especial de trabalhadores deslocados (a [Lei de Beckham](./#lei-de-beckham)) **e** teve a solicitação do Bono Infantil denegada. Para o contexto geral da cidade, veja a página de [Valência](valencia.md).
 {% endhint %}
 
-O [Bono Infantil](https://www.gva.es/es/inicio/procedimientos?id_proc=18094) é a ajuda da Generalitat Valenciana para pagar parte da escola infantil (0-3 anos) em centros privados autorizados. Normalmente se solicita através da própria escola, com o prazo abrindo por volta de maio/junho para o curso seguinte.
+O **Bono Infantil** é a ajuda da Generalitat Valenciana para pagar parte da escola infantil (0-3 anos) em centros privados autorizados. Normalmente se solicita através da própria escola, com o prazo abrindo por volta de maio/junho para o curso seguinte. A convocatória de cada ano se publica no DOGV e aparece na [sede eletrônica da Generalitat](https://sede.gva.es/) buscando por _bono infantil_.
 
 ## O problema
 
