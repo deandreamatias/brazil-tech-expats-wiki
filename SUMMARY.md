@@ -6,6 +6,7 @@
 * [Tech & Tools](tech-and-tools/README.md)
 * [🇪🇸 Espanha](countries/spain/README.md)
   * [🥘 Valência](countries/spain/valencia.md)
+    * [Bono Infantil denegado por causa da Lei de Beckham](countries/spain/bono-infantil-lei-beckham.md)
 * [🇩🇪 Germany](germany.md)
 * [🇳🇱 Países Baixos](countries/netherlands.md)
 * [🇵🇹 Portugal](https://nighto.gitbook.io/brasil-portugal)
