@@ -34,6 +34,10 @@ O [Bono Infantil](https://www.gva.es/es/inicio/procedimientos?id_proc=18094) é 
 
 #### O problema de ter a Lei de Beckham
 
+{% hint style="info" %}
+Isto só se aplica **se a tua solicitação for denegada**. Não acontece com todo mundo: às vezes a Agencia Tributaria vincula corretamente o teu regime especial com o estar al corriente de obligaciones tributarias e o trâmite segue normal. Se o teu bono saiu aprovado, ignora o resto desta seção.
+{% endhint %}
+
 Quem está no regime especial de trabalhadores deslocados, a [Lei de Beckham](./#lei-de-beckham), **não apresenta o modelo 100** (a declaração "normal" de IRPF) e sim o **modelo 151**. Quem era não residente no exercício anterior, apresentou o **modelo 210**.
 
 Isso trava o trâmite do Bono Infantil em dois pontos:
