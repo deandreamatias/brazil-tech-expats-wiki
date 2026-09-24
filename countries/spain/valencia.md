@@ -52,6 +52,7 @@ Confirmado por telefone com o suporte da AEAT: o caminho é fazer uma solicitaç
 Onde fazer:
 
 1. Entra em [Expedición de certificados tributarios](https://sede.agenciatributaria.gob.es/Sede/procedimientoini/G317.shtml) na sede eletrônica da AEAT
+   * Se o link direto não funcionar, chega lá pela home da sede: _Inicio_ → _Todas las gestiones_ → _Certificados_ → _Resto de Certificados / Certificados genéricos_
 2. Ignora os tipos de certificado listados. Desce até o final da página, onde diz _"Si el certificado que desea solicitar no encaja en ninguno de los tipos anteriores, **Pinche aquí**"_
 3. Ali você escreve o pedido à mão, explicando a situação
 
