@@ -26,6 +26,16 @@ A partir de uma experiência pessoal de uma das integrantes da comunidade, escre
 
 Tenha em conta que tudo isto pode estar desatualizado, mas serve de orientação.
 
+## Família e educação
+
+### Bono Infantil (0-3 anos)
+
+O **Bono Infantil** é a ajuda da Generalitat Valenciana para pagar parte da escola infantil (0-3 anos) em centros privados autorizados. Normalmente se solicita através da própria escola, com o prazo abrindo por volta de maio/junho para o curso seguinte. A convocatória de cada ano se publica no DOGV e aparece na [sede eletrônica da Generalitat](https://sede.gva.es/) buscando por _bono infantil_.
+
+{% hint style="warning" %}
+Se você está na [Lei de Beckham](./#lei-de-beckham) e a tua solicitação saiu **denegada por falta de documentação**, veja [Bono Infantil denegado por causa da Lei de Beckham](bono-infantil-lei-beckham.md). É um caso de exceção com um trâmite próprio na Agencia Tributaria.
+{% endhint %}
+
 ## Moradia
 
 {% hint style="info" %}
